@@ -1,0 +1,129 @@
+<style>
+.mf { font-family: var(--font-anthropic-sans); color: var(--color-fg); }
+.mf h1 { font-family: var(--font-anthropic-serif); font-weight: 400; font-size: var(--cds-font-size-title); margin: 0 0 var(--cds-gap-xs); }
+.mf .mf-take { font-size: var(--cds-font-size-body); color: var(--color-fg-muted); margin: 0 0 var(--cds-gap-xs); max-width: 70ch; }
+.mf .mf-meta { font-size: var(--cds-font-size-caption); color: var(--color-fg-muted); display: flex; flex-wrap: wrap; gap: var(--cds-gap-sm); align-items: center; margin-bottom: var(--cds-gap-lg); }
+.mf .mf-chip { border: 1px solid var(--color-border-line); border-radius: 999px; padding: 2px var(--cds-pad-sm); color: var(--color-warn); }
+.mf .mf-tiles { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 11rem), 1fr)); gap: var(--cds-gap-md); margin-bottom: var(--cds-gap-xl); }
+.mf .mf-tile, .mf .mf-card { background: var(--color-panel); border: 1px solid var(--color-border-line); border-radius: var(--cds-radius); padding: var(--cds-pad-lg); min-width: 0; }
+.mf .mf-tile .lab { font-size: var(--cds-font-size-caption); color: var(--color-fg-muted); }
+.mf .mf-tile .big { font-family: var(--font-anthropic-serif); font-weight: 400; font-size: var(--cds-font-size-title); font-variant-numeric: tabular-nums; margin: var(--cds-gap-xs) 0; min-height: 1.3em; }
+.mf .mf-tile .sub { font-size: var(--cds-font-size-caption); color: var(--color-fg-muted); min-height: 1.2em; }
+.mf h2 { font-size: var(--cds-font-size-heading); font-weight: var(--cds-font-weight-medium); margin: var(--cds-gap-xl) 0 var(--cds-gap-sm); }
+.mf .mf-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 22rem), 1fr)); gap: var(--cds-gap-md); }
+.mf .mf-card h3 { font-size: var(--cds-font-size-heading); font-weight: var(--cds-font-weight-medium); margin: 0; }
+.mf .mf-card .note { font-size: var(--cds-font-size-caption); color: var(--color-fg-muted); margin: var(--cds-gap-xs) 0 var(--cds-gap-sm); }
+.mf .chart { position: relative; min-height: 240px; }
+.mf .chart.tall { min-height: 280px; }
+.mf .chart svg { display: block; overflow: visible; }
+.mf .tt { position: absolute; pointer-events: none; background: var(--cds-surface-popover); border: 1px solid var(--cds-border); border-radius: var(--cds-radius); box-shadow: var(--cds-shadow-popover); padding: var(--cds-pad-xs) var(--cds-pad-sm); font-size: var(--cds-font-size-caption); white-space: nowrap; z-index: 2; display: none; }
+.mf .tt .h { color: var(--cds-text-secondary); margin-bottom: 2px; }
+.mf .tt .sw { display: inline-block; width: 8px; height: 8px; border-radius: 2px; margin-right: 6px; }
+.mf .legend { display: flex; flex-wrap: wrap; gap: var(--cds-gap-sm) var(--cds-gap-md); font-size: var(--cds-font-size-caption); color: var(--color-fg-muted); margin-top: var(--cds-gap-sm); }
+.mf .legend .sw { display: inline-block; width: 10px; height: 10px; border-radius: 2px; margin-right: 6px; vertical-align: -1px; }
+.mf .legend .dash { display: inline-block; width: 14px; border-top: 2px dashed currentColor; margin-right: 6px; vertical-align: 3px; }
+.mf table { width: 100%; border-collapse: collapse; font-size: var(--cds-font-size-caption); font-variant-numeric: tabular-nums; }
+.mf th { text-align: left; font-weight: var(--cds-font-weight-medium); color: var(--color-fg-muted); border-bottom: 1px solid var(--color-border-line); padding: 6px 8px 6px 0; }
+.mf td { padding: 6px 8px 6px 0; border-bottom: 1px solid var(--color-border-line); vertical-align: middle; }
+.mf td.num, .mf th.num { text-align: right; }
+.mf .bar { height: 6px; border-radius: 3px; background: var(--cds-chart-grid); min-width: 60px; }
+.mf .bar > i { display: block; height: 100%; border-radius: 3px; }
+.mf .two { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 9rem), 1fr)); gap: var(--cds-gap-sm); margin: var(--cds-gap-sm) 0; }
+.mf .two .big { font-family: var(--font-anthropic-serif); font-size: var(--cds-font-size-heading); font-variant-numeric: tabular-nums; }
+.mf .two .lab { font-size: var(--cds-font-size-caption); color: var(--color-fg-muted); }
+.mf .fail { display: flex; align-items: center; justify-content: center; gap: 6px; min-height: inherit; color: var(--color-fg-muted); font-size: var(--cds-font-size-caption); }
+.mf .fail::before { content: ""; width: .375rem; height: .375rem; border-radius: 50%; background: var(--color-bad); }
+.mf .foot { font-size: var(--cds-font-size-caption); color: var(--color-fg-muted); margin-top: var(--cds-gap-xl); }
+.mf [data-dash-source-state=empty] { color: transparent; }
+.mf [data-dash-source-state=refreshing] { opacity: .5; transition: opacity var(--cds-dur-slow); }
+.mf .scroll { overflow-x: auto; }
+</style>
+
+<div class="mf">
+  <header id="resumen">
+    <h1>Plan financiero personal</h1>
+    <p class="mf-take" id="takeaway">Tienes <b data-source="kpi" data-field="valor" data-where="clave=patrimonio_liquido" class="t-liq">—</b> en tus cuentas y tu dinero cubre el <b data-source="kpi" data-field="valor" data-where="clave=libertad" class="t-lib">—</b> de tus gastos. Ahorras de media <b data-source="kpi" data-field="valor" data-where="clave=ahorro_medio" class="t-aho">—</b> al mes.</p>
+    <div class="mf-meta">
+      <span>Datos de tus bancos a <span data-source="kpi" data-field="valor" data-where="clave=fecha_datos" id="k-fecha">—</span></span>
+      <span class="mf-chip" id="chip-revisar" hidden><span data-source="kpi" data-field="valor" data-where="clave=por_revisar" id="k-revisar">—</span> movimientos por revisar</span>
+    </div>
+  </header>
+
+  <section class="mf-tiles" id="cifras">
+    <div class="mf-tile"><div class="lab">Patrimonio líquido</div>
+      <div class="big dash-skeleton" data-source="kpi" data-field="valor" data-where="clave=patrimonio_liquido" id="k-liq">—</div>
+      <div class="sub">Con inmuebles: <span data-source="kpi" data-field="valor" data-where="clave=patrimonio_total" id="k-tot">—</span></div></div>
+    <div class="mf-tile"><div class="lab">Libertad financiera</div>
+      <div class="big dash-skeleton" data-source="kpi" data-field="valor" data-where="clave=libertad" id="k-lib">—</div>
+      <div class="sub" data-source="kpi" data-field="valor" data-where="clave=nivel" id="k-nivel">—</div></div>
+    <div class="mf-tile"><div class="lab">Ahorro medio al mes</div>
+      <div class="big dash-skeleton" data-source="kpi" data-field="valor" data-where="clave=ahorro_medio" id="k-ahorro">—</div>
+      <div class="sub">De <span data-source="kpi" data-field="valor" data-where="clave=ingresos_medio" id="k-ing">—</span> de ingresos</div></div>
+    <div class="mf-tile"><div class="lab">Casa al mes</div>
+      <div class="big dash-skeleton" data-source="kpi" data-field="valor" data-where="clave=casa_media" id="k-casa">—</div>
+      <div class="sub">Media de los meses completos</div></div>
+    <div class="mf-tile"><div class="lab">Cuenta de viajes a fin de <span data-source="kpi" data-field="valor" data-where="clave=viajes_anio" id="k-vanio">—</span></div>
+      <div class="big dash-skeleton" data-source="kpi" data-field="valor" data-where="clave=viajes_saldo_fin_anio" id="k-vsaldo">—</div>
+      <div class="sub" data-source="kpi" data-field="valor" data-where="clave=viajes_aviso" id="k-vaviso">—</div></div>
+  </section>
+
+  <h2 id="hoy">Tu dinero, mes a mes</h2>
+  <div class="mf-grid">
+    <div class="mf-card" id="card-saldos"><h3>Saldos a fin de mes</h3>
+      <p class="note">Tus tres cuentas, apiladas. Si el último mes sigue en curso, sale más claro.</p>
+      <div class="chart" id="ch-saldos" data-source="meses"></div><div class="legend" id="lg-saldos"></div></div>
+    <div class="mf-card" id="card-flujo"><h3>Ingresos y gastos</h3>
+      <p class="note">Sin traspasos entre tus cuentas ni lo que queda por revisar.</p>
+      <div class="chart" id="ch-flujo" data-source="meses"></div><div class="legend" id="lg-flujo"></div></div>
+  </div>
+
+  <h2 id="gastos">En qué se va</h2>
+  <div class="mf-grid">
+    <div class="mf-card" id="card-grupos"><h3>Gasto medio al mes por grupo</h3>
+      <p class="note">Media de los meses completos.</p>
+      <div class="chart" id="ch-grupos" data-source="gasto_grupos"></div></div>
+    <div class="mf-card" id="card-casa"><h3>Recibos de casa</h3>
+      <p class="note">Por concepto y mes, desde el primer mes con datos.</p>
+      <div class="chart" id="ch-casa" data-source="casa_meses"></div><div class="legend" id="lg-casa"></div>
+      <div class="scroll"><table id="tb-casa" data-source="casa" data-row-key="concepto">
+        <thead><tr><th data-field="concepto">Concepto</th><th class="num" data-field="media">Media al mes</th><th class="num" data-field="ultimo">Último mes</th></tr></thead>
+        <tbody></tbody></table></div></div>
+  </div>
+
+  <h2 id="futuro">Hasta la jubilación y después</h2>
+  <div class="mf-grid">
+    <div class="mf-card" id="card-futuro"><h3>Tu patrimonio líquido por edad</h3>
+      <p class="note">Ahorrando como ahora hasta la jubilación; después, sacando lo que no cubre la pensión.</p>
+      <div class="two">
+        <div><div class="lab">A los <span data-source="kpi" data-field="valor" data-where="clave=edad_jubilacion" id="k-ej">—</span></div><div class="big" data-source="kpi" data-field="valor" data-where="clave=patrimonio_jub" id="k-p67">—</div></div>
+        <div><div class="lab">En € de hoy</div><div class="big" data-source="kpi" data-field="valor" data-where="clave=patrimonio_jub_hoy" id="k-p67h">—</div></div>
+        <div><div class="lab">Te dura</div><div class="big" id="k-dura" data-source="dura" data-field="texto" data-row="0">—</div></div>
+      </div>
+      <div class="chart tall" id="ch-futuro" data-source="trayectoria"></div><div class="legend" id="lg-futuro"></div>
+      <p class="note" id="dec-texto" data-source="kpi" data-field="valor" data-where="clave=decisiones_texto">—</p></div>
+    <div class="mf-card" id="card-hitos"><h3>Tus hitos</h3>
+      <p class="note">Se desbloquean solos según tu plan.</p>
+      <div class="scroll"><table id="tb-hitos" data-source="hitos" data-row-key="hito">
+        <thead><tr><th data-field="hito">Hito</th><th data-field="pct">Progreso</th><th data-field="anio">Año</th><th data-field="estado">Estado</th></tr></thead>
+        <tbody></tbody></table></div></div>
+  </div>
+
+  <h2 id="viajes">Viajes</h2>
+  <div class="mf-grid">
+    <div class="mf-card" id="card-viajes"><h3>Tus viajes</h3>
+      <p class="note">Tu parte de cada viaje y lo que queda en la cuenta de viajes después.</p>
+      <div class="scroll"><table id="tb-viajes" data-source="viajes" data-row-key="viaje">
+        <thead><tr><th data-field="viaje">Viaje</th><th data-field="fecha">Fecha</th><th class="num" data-field="tu_parte">Tu parte</th><th data-field="estado">Estado</th><th class="num" data-field="saldo_tras">Queda en la cuenta</th><th data-field="llega">¿Llega?</th></tr></thead>
+        <tbody></tbody></table></div></div>
+    <div class="mf-card" id="card-esc"><h3>¿Y si aporto otra cantidad?</h3>
+      <p class="note">Las opciones A, B y C se cambian en la pestaña VIAJES del sheet.</p>
+      <div class="scroll"><table id="tb-esc" data-source="viajes_escenarios" data-row-key="concepto">
+        <thead><tr><th data-field="concepto"></th><th class="num" data-field="ahora">Ahora</th><th class="num" data-field="a">A</th><th class="num" data-field="b">B</th><th class="num" data-field="c">C</th></tr></thead>
+        <tbody></tbody></table></div></div>
+  </div>
+
+  <p class="foot">Se lee de la pestaña PANEL_DATOS del sheet del plan. La pensión y el precio de la vivienda son estimaciones: cámbialas en el sheet. No es asesoramiento financiero.</p>
+</div>
+
+<script src="loaders.js"></script>
+<script src="page.js"></script>

@@ -1,0 +1,65 @@
+[
+ {
+  "concepto": "Aportación mensual",
+  "ahora": 150,
+  "a": 100,
+  "b": 200,
+  "c": 250
+ },
+ {
+  "concepto": "Saldo de la cuenta a fin de 2026",
+  "ahora": 1900,
+  "a": 1150,
+  "b": 2650,
+  "c": 3400
+ },
+ {
+  "concepto": "Saldo de la cuenta a fin de 2027",
+  "ahora": 2900,
+  "a": 1550,
+  "b": 4250,
+  "c": 5600
+ },
+ {
+  "concepto": "Saldo más bajo justo después de un viaje",
+  "ahora": 1700,
+  "a": 750,
+  "b": 2450,
+  "c": 3150
+ },
+ {
+  "concepto": "¿Llegas a todos los viajes?",
+  "ahora": "🟢 Sí",
+  "a": "🟢 Sí",
+  "b": "🟢 Sí",
+  "c": "🟢 Sí"
+ },
+ {
+  "concepto": "Ahorro que te queda al mes",
+  "ahora": 976.86,
+  "a": 1026.86,
+  "b": 926.86,
+  "c": 876.86
+ },
+ {
+  "concepto": "% de tus ingresos que ahorras",
+  "ahora": 0.371795916826811,
+  "a": 0.390826070422352,
+  "b": 0.352765763231269,
+  "c": 0.333735609635728
+ },
+ {
+  "concepto": "Patrimonio líquido a los 67",
+  "ahora": 502169.24534427,
+  "a": 518991.890913813,
+  "b": 485346.599774726,
+  "c": 468523.954205182
+ },
+ {
+  "concepto": "Libertad financiera a los 67",
+  "ahora": 0.533678725972287,
+  "a": 0.568787178007383,
+  "b": 0.500634810071946,
+  "c": 0.469478525580626
+ }
+]

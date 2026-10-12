@@ -1,0 +1,134 @@
+[
+ {
+  "mes": "2025-10-01",
+  "Alquiler": 850,
+  "Comunidad": 0,
+  "Luz y gas": 37.38,
+  "Agua": 36.52,
+  "Internet y teléfono fijo": 39.9,
+  "IBI y tasas": 0,
+  "Seguro del hogar": 0,
+  "Mantenimiento del hogar": 0
+ },
+ {
+  "mes": "2025-11-01",
+  "Alquiler": 850,
+  "Comunidad": 0,
+  "Luz y gas": 50.32,
+  "Agua": 0,
+  "Internet y teléfono fijo": 39.9,
+  "IBI y tasas": 0,
+  "Seguro del hogar": 0,
+  "Mantenimiento del hogar": 0
+ },
+ {
+  "mes": "2025-12-01",
+  "Alquiler": 850,
+  "Comunidad": 0,
+  "Luz y gas": 58.18,
+  "Agua": 32.13,
+  "Internet y teléfono fijo": 39.9,
+  "IBI y tasas": 0,
+  "Seguro del hogar": 0,
+  "Mantenimiento del hogar": 0
+ },
+ {
+  "mes": "2026-01-01",
+  "Alquiler": 850,
+  "Comunidad": 0,
+  "Luz y gas": 63.54,
+  "Agua": 0,
+  "Internet y teléfono fijo": 39.9,
+  "IBI y tasas": 0,
+  "Seguro del hogar": 0,
+  "Mantenimiento del hogar": 0
+ },
+ {
+  "mes": "2026-02-01",
+  "Alquiler": 850,
+  "Comunidad": 0,
+  "Luz y gas": 49.8,
+  "Agua": 37.59,
+  "Internet y teléfono fijo": 39.9,
+  "IBI y tasas": 0,
+  "Seguro del hogar": 0,
+  "Mantenimiento del hogar": 0
+ },
+ {
+  "mes": "2026-03-01",
+  "Alquiler": 850,
+  "Comunidad": 0,
+  "Luz y gas": 40.63,
+  "Agua": 0,
+  "Internet y teléfono fijo": 39.9,
+  "IBI y tasas": 0,
+  "Seguro del hogar": 148,
+  "Mantenimiento del hogar": 0
+ },
+ {
+  "mes": "2026-04-01",
+  "Alquiler": 850,
+  "Comunidad": 0,
+  "Luz y gas": 36.17,
+  "Agua": 34,
+  "Internet y teléfono fijo": 39.9,
+  "IBI y tasas": 0,
+  "Seguro del hogar": 0,
+  "Mantenimiento del hogar": 0
+ },
+ {
+  "mes": "2026-05-01",
+  "Alquiler": 850,
+  "Comunidad": 0,
+  "Luz y gas": 47.6,
+  "Agua": 0,
+  "Internet y teléfono fijo": 39.9,
+  "IBI y tasas": 0,
+  "Seguro del hogar": 0,
+  "Mantenimiento del hogar": 0
+ },
+ {
+  "mes": "2026-06-01",
+  "Alquiler": 850,
+  "Comunidad": 0,
+  "Luz y gas": 50.74,
+  "Agua": 35.69,
+  "Internet y teléfono fijo": 39.9,
+  "IBI y tasas": 0,
+  "Seguro del hogar": 0,
+  "Mantenimiento del hogar": 0
+ },
+ {
+  "mes": "2026-07-01",
+  "Alquiler": 850,
+  "Comunidad": 0,
+  "Luz y gas": 42.64,
+  "Agua": 0,
+  "Internet y teléfono fijo": 39.9,
+  "IBI y tasas": 0,
+  "Seguro del hogar": 0,
+  "Mantenimiento del hogar": 0
+ },
+ {
+  "mes": "2026-08-01",
+  "Alquiler": 850,
+  "Comunidad": 0,
+  "Luz y gas": 77.32,
+  "Agua": 37.55,
+  "Internet y teléfono fijo": 39.9,
+  "IBI y tasas": 0,
+  "Seguro del hogar": 0,
+  "Mantenimiento del hogar": 0
+ },
+ {
+  "mes": "2026-09-01",
+  "Alquiler": 850,
+  "Comunidad": 0,
+  "Luz y gas": 38.08,
+  "Agua": 0,
+  "Internet y teléfono fijo": 39.9,
+  "IBI y tasas": 0,
+  "Seguro del hogar": 0,
+  "Mantenimiento del hogar": 0
+ }
+]

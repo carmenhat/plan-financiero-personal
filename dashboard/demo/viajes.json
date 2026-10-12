@@ -1,0 +1,38 @@
+[
+ {
+  "viaje": "Escapada a Oporto",
+  "fecha": "2026-11-20",
+  "tu_parte": 350,
+  "pagado_con": "Cuenta de viajes",
+  "estado": "Organizado",
+  "saldo_tras": 1750,
+  "llega": "🟢 Llega"
+ },
+ {
+  "viaje": "Fin de semana rural",
+  "fecha": "2026-12-05",
+  "tu_parte": 160,
+  "pagado_con": "Mi bolsillo",
+  "estado": "Idea",
+  "saldo_tras": "",
+  "llega": "— lo pagas tú"
+ },
+ {
+  "viaje": "Roma",
+  "fecha": "2027-04-10",
+  "tu_parte": 800,
+  "pagado_con": "Cuenta de viajes",
+  "estado": "Planificando",
+  "saldo_tras": 1700,
+  "llega": "🟢 Llega"
+ },
+ {
+  "viaje": "Islandia",
+  "fecha": "2027-09-15",
+  "tu_parte": "",
+  "pagado_con": "Cuenta de viajes",
+  "estado": "Idea",
+  "saldo_tras": 2450,
+  "llega": "Falta fecha o coste"
+ }
+]

@@ -1,0 +1,16 @@
+.env
+node_modules/
+desktop.ini
+
+# Python
+__pycache__/
+.venv/
+
+# LibreOffice
+.~lock.*#
+plantilla/recalculado/
+
+# Tus datos reales no entran nunca: guárdalos fuera del repositorio
+privado/
+*.clasp.json
+.clasp.json

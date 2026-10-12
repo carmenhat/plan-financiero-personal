@@ -1,0 +1,124 @@
+{
+  "meta": {
+    "title": "Plan financiero personal"
+  },
+  "datasets": {
+    "kpi": {
+      "title": "Cifras clave del plan",
+      "description": "Patrimonio, libertad financiera, ahorro, casa, jubilación y cuenta de viajes, de la pestaña PANEL_DATOS. Lee el sheet del plan (Google Drive).",
+      "source": {
+        "kind": "query",
+        "connector": "Google Drive",
+        "tool": "download_file_content",
+        "args": {
+          "fileId": "TU_FILE_ID",
+          "exportMimeType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+        }
+      }
+    },
+    "meses": {
+      "title": "Saldos y gastos por mes",
+      "description": "Saldos de fin de mes por cuenta, ingresos, gastos y gasto por grupo. Lee el sheet del plan (Google Drive).",
+      "source": {
+        "kind": "query",
+        "connector": "Google Drive",
+        "tool": "download_file_content",
+        "args": {
+          "fileId": "TU_FILE_ID",
+          "exportMimeType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+        }
+      }
+    },
+    "casa": {
+      "title": "Recibos de casa: resumen",
+      "description": "Media mensual, total y último mes de cada recibo de la vivienda. Lee el sheet del plan (Google Drive).",
+      "source": {
+        "kind": "query",
+        "connector": "Google Drive",
+        "tool": "download_file_content",
+        "args": {
+          "fileId": "TU_FILE_ID",
+          "exportMimeType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+        }
+      }
+    },
+    "casa_meses": {
+      "title": "Recibos de casa por mes",
+      "description": "Importe de cada recibo de la vivienda en los últimos 12 meses. Lee el sheet del plan (Google Drive).",
+      "source": {
+        "kind": "query",
+        "connector": "Google Drive",
+        "tool": "download_file_content",
+        "args": {
+          "fileId": "TU_FILE_ID",
+          "exportMimeType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+        }
+      }
+    },
+    "proyeccion": {
+      "title": "Proyección hasta la jubilación",
+      "description": "Patrimonio líquido año a año hasta la jubilación, sin y con tus decisiones. Lee el sheet del plan (Google Drive).",
+      "source": {
+        "kind": "query",
+        "connector": "Google Drive",
+        "tool": "download_file_content",
+        "args": {
+          "fileId": "TU_FILE_ID",
+          "exportMimeType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+        }
+      }
+    },
+    "jubilacion": {
+      "title": "Capital en la jubilación",
+      "description": "Capital año a año desde la jubilación, sacando lo que no cubre la pensión. Lee el sheet del plan (Google Drive).",
+      "source": {
+        "kind": "query",
+        "connector": "Google Drive",
+        "tool": "download_file_content",
+        "args": {
+          "fileId": "TU_FILE_ID",
+          "exportMimeType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+        }
+      }
+    },
+    "hitos": {
+      "title": "Hitos del plan",
+      "description": "Cada hito con su meta, progreso, año previsto y estado. Lee el sheet del plan (Google Drive).",
+      "source": {
+        "kind": "query",
+        "connector": "Google Drive",
+        "tool": "download_file_content",
+        "args": {
+          "fileId": "TU_FILE_ID",
+          "exportMimeType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+        }
+      }
+    },
+    "viajes": {
+      "title": "Viajes y cuenta de viajes",
+      "description": "Tu parte de cada viaje y el saldo de la cuenta de viajes después. Lee el sheet del plan (Google Drive).",
+      "source": {
+        "kind": "query",
+        "connector": "Google Drive",
+        "tool": "download_file_content",
+        "args": {
+          "fileId": "TU_FILE_ID",
+          "exportMimeType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+        }
+      }
+    },
+    "viajes_escenarios": {
+      "title": "Otras aportaciones a viajes",
+      "description": "Qué pasa con la cuenta, el ahorro y la jubilación si aportas otra cantidad. Lee el sheet del plan (Google Drive).",
+      "source": {
+        "kind": "query",
+        "connector": "Google Drive",
+        "tool": "download_file_content",
+        "args": {
+          "fileId": "TU_FILE_ID",
+          "exportMimeType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+        }
+      }
+    }
+  }
+}

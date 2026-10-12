@@ -1,0 +1,50 @@
+[
+ {
+  "concepto": "Alquiler",
+  "media": 850,
+  "total12": 10200,
+  "ultimo": 850
+ },
+ {
+  "concepto": "Comunidad",
+  "media": 0,
+  "total12": 0,
+  "ultimo": 0
+ },
+ {
+  "concepto": "Luz y gas",
+  "media": 49.3666666666667,
+  "total12": 592.4,
+  "ultimo": 38.08
+ },
+ {
+  "concepto": "Agua",
+  "media": 17.79,
+  "total12": 213.48,
+  "ultimo": 0
+ },
+ {
+  "concepto": "Internet y teléfono fijo",
+  "media": 39.9,
+  "total12": 478.8,
+  "ultimo": 39.9
+ },
+ {
+  "concepto": "IBI y tasas",
+  "media": 0,
+  "total12": 0,
+  "ultimo": 0
+ },
+ {
+  "concepto": "Seguro del hogar",
+  "media": 12.3333333333333,
+  "total12": 148,
+  "ultimo": 0
+ },
+ {
+  "concepto": "Mantenimiento del hogar",
+  "media": 0,
+  "total12": 0,
+  "ultimo": 0
+ }
+]

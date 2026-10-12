@@ -1,0 +1,4132 @@
+[
+ {
+  "cuenta": "ING",
+  "fecha": "2026-09-30",
+  "hora": "",
+  "concepto": "INTERESES CUENTA AHORRO",
+  "importe": 34.98,
+  "saldo": 56006.0,
+  "clave": "ING|2026-09-30||34.98|56006.00#1",
+  "categoria": "Intereses"
+ },
+ {
+  "cuenta": "CaixaBank",
+  "fecha": "2026-09-28",
+  "hora": "",
+  "concepto": "NOMINA EMPRESA EJEMPLO SL",
+  "importe": 2150,
+  "saldo": 10501.16,
+  "clave": "CaixaBank|2026-09-28||2150.00|10501.16#1",
+  "categoria": "Nómina"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2026-09-27",
+  "hora": "20:00",
+  "concepto": "FRUTERIA LA HUERTA",
+  "importe": -11.6,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2026-09-27|20:00|-11.60|#1",
+  "categoria": "Supermercado"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2026-09-27",
+  "hora": "11:07",
+  "concepto": "CAFETERIA CENTRAL",
+  "importe": -7.97,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2026-09-27|11:07|-7.97|#1",
+  "categoria": "Restaurantes y caprichos"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2026-09-24",
+  "hora": "21:15",
+  "concepto": "RESTAURANTE LA PLAZA",
+  "importe": -37.23,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2026-09-24|21:15|-37.23|#1",
+  "categoria": "Restaurantes y caprichos"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2026-09-24",
+  "hora": "16:31",
+  "concepto": "TRANSPORTE PUBLICO RECARGA",
+  "importe": -20.0,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2026-09-24|16:31|-20.00|#1",
+  "categoria": "Transporte"
+ },
+ {
+  "cuenta": "CaixaBank",
+  "fecha": "2026-09-24",
+  "hora": "",
+  "concepto": "BIZUM CENA",
+  "importe": 19,
+  "saldo": 8351.16,
+  "clave": "CaixaBank|2026-09-24||19.00|8351.16#1",
+  "categoria": "❓ Por revisar"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2026-09-23",
+  "hora": "19:07",
+  "concepto": "TIENDA ONLINE",
+  "importe": -44.59,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2026-09-23|19:07|-44.59|#1",
+  "categoria": "Compras online"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2026-09-23",
+  "hora": "12:45",
+  "concepto": "RESTAURANTE LA PLAZA",
+  "importe": -29.53,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2026-09-23|12:45|-29.53|#1",
+  "categoria": "Restaurantes y caprichos"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2026-09-22",
+  "hora": "11:15",
+  "concepto": "CAFETERIA CENTRAL",
+  "importe": -8.79,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2026-09-22|11:15|-8.79|#1",
+  "categoria": "Restaurantes y caprichos"
+ },
+ {
+  "cuenta": "CaixaBank",
+  "fecha": "2026-09-22",
+  "hora": "",
+  "concepto": "PELUQUERIA ESTILO",
+  "importe": -22,
+  "saldo": 8332.16,
+  "clave": "CaixaBank|2026-09-22||-22.00|8332.16#1",
+  "categoria": "Cuidado personal"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2026-09-19",
+  "hora": "19:52",
+  "concepto": "FRUTERIA LA HUERTA",
+  "importe": -19.81,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2026-09-19|19:52|-19.81|#1",
+  "categoria": "Supermercado"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2026-09-17",
+  "hora": "16:00",
+  "concepto": "SUPERMERCADO EL BARRIO",
+  "importe": -36.94,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2026-09-17|16:00|-36.94|#1",
+  "categoria": "Supermercado"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2026-09-16",
+  "hora": "11:45",
+  "concepto": "GASOLINERA RUTA",
+  "importe": -36.84,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2026-09-16|11:45|-36.84|#1",
+  "categoria": "Transporte"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2026-09-16",
+  "hora": "09:15",
+  "concepto": "SUPERMERCADO EL BARRIO",
+  "importe": -18.39,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2026-09-16|09:15|-18.39|#1",
+  "categoria": "Supermercado"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2026-09-15",
+  "hora": "14:07",
+  "concepto": "SUPERMERCADO EL BARRIO",
+  "importe": -53.38,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2026-09-15|14:07|-53.38|#1",
+  "categoria": "Supermercado"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2026-09-11",
+  "hora": "16:00",
+  "concepto": "SUPERMERCADO EL BARRIO",
+  "importe": -25.57,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2026-09-11|16:00|-25.57|#1",
+  "categoria": "Supermercado"
+ },
+ {
+  "cuenta": "CaixaBank",
+  "fecha": "2026-09-11",
+  "hora": "",
+  "concepto": "BIZUM COMIDA DOMINGO",
+  "importe": 29,
+  "saldo": 8354.16,
+  "clave": "CaixaBank|2026-09-11||29.00|8354.16#1",
+  "categoria": "❓ Por revisar"
+ },
+ {
+  "cuenta": "CaixaBank",
+  "fecha": "2026-09-09",
+  "hora": "",
+  "concepto": "RECIBO STREAMFLIX",
+  "importe": -12.99,
+  "saldo": 8325.16,
+  "clave": "CaixaBank|2026-09-09||-12.99|8325.16#1",
+  "categoria": "Suscripciones"
+ },
+ {
+  "cuenta": "CaixaBank",
+  "fecha": "2026-09-08",
+  "hora": "",
+  "concepto": "RECIBO LUZ HOGAR ENERGIA",
+  "importe": -38.08,
+  "saldo": 8338.15,
+  "clave": "CaixaBank|2026-09-08||-38.08|8338.15#1",
+  "categoria": "Luz y gas"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2026-09-07",
+  "hora": "09:15",
+  "concepto": "FARMACIA SAN JOSE",
+  "importe": -8.55,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2026-09-07|09:15|-8.55|#1",
+  "categoria": "Salud y farmacia"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2026-09-06",
+  "hora": "21:52",
+  "concepto": "CAFETERIA CENTRAL",
+  "importe": -5.77,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2026-09-06|21:52|-5.77|#1",
+  "categoria": "Restaurantes y caprichos"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2026-09-06",
+  "hora": "21:22",
+  "concepto": "CAFETERIA CENTRAL",
+  "importe": -5.98,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2026-09-06|21:22|-5.98|#1",
+  "categoria": "Restaurantes y caprichos"
+ },
+ {
+  "cuenta": "CaixaBank",
+  "fecha": "2026-09-06",
+  "hora": "",
+  "concepto": "RECIBO MOVILCOM",
+  "importe": -14.95,
+  "saldo": 8376.23,
+  "clave": "CaixaBank|2026-09-06||-14.95|8376.23#1",
+  "categoria": "Móvil"
+ },
+ {
+  "cuenta": "CaixaBank",
+  "fecha": "2026-09-05",
+  "hora": "",
+  "concepto": "RECIBO FIBRANET",
+  "importe": -39.9,
+  "saldo": 8391.18,
+  "clave": "CaixaBank|2026-09-05||-39.90|8391.18#1",
+  "categoria": "Internet y teléfono fijo"
+ },
+ {
+  "cuenta": "Openbank",
+  "fecha": "2026-09-05",
+  "hora": "",
+  "concepto": "LIQUIDACION TARJETA CREDITO",
+  "importe": -417.87,
+  "saldo": 1449.9,
+  "clave": "Openbank|2026-09-05||-417.87|1449.90#1",
+  "categoria": "Pago de la tarjeta"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2026-09-04",
+  "hora": "18:22",
+  "concepto": "CINE ESTRENOS",
+  "importe": -10.55,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2026-09-04|18:22|-10.55|#1",
+  "categoria": "Ocio y cultura"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2026-09-03",
+  "hora": "14:07",
+  "concepto": "CAFETERIA CENTRAL",
+  "importe": -5.25,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2026-09-03|14:07|-5.25|#1",
+  "categoria": "Restaurantes y caprichos"
+ },
+ {
+  "cuenta": "CaixaBank",
+  "fecha": "2026-09-03",
+  "hora": "",
+  "concepto": "TRANSFERENCIA CUENTA DE VIAJES",
+  "importe": -150,
+  "saldo": 8431.08,
+  "clave": "CaixaBank|2026-09-03||-150.00|8431.08#1",
+  "categoria": "Aportación a la cuenta de viajes"
+ },
+ {
+  "cuenta": "CaixaBank",
+  "fecha": "2026-09-02",
+  "hora": "",
+  "concepto": "TRASPASO A CUENTA AHORRO ING",
+  "importe": -300,
+  "saldo": 9061.08,
+  "clave": "CaixaBank|2026-09-02||-300.00|9061.08#1",
+  "categoria": "Traspaso entre mis cuentas"
+ },
+ {
+  "cuenta": "CaixaBank",
+  "fecha": "2026-09-02",
+  "hora": "",
+  "concepto": "TRASPASO A OPENBANK",
+  "importe": -480,
+  "saldo": 8581.08,
+  "clave": "CaixaBank|2026-09-02||-480.00|8581.08#1",
+  "categoria": "Traspaso entre mis cuentas"
+ },
+ {
+  "cuenta": "ING",
+  "fecha": "2026-09-02",
+  "hora": "",
+  "concepto": "TRASPASO DESDE CAIXABANK",
+  "importe": 300,
+  "saldo": 55971.02,
+  "clave": "ING|2026-09-02||300.00|55971.02#1",
+  "categoria": "Traspaso entre mis cuentas"
+ },
+ {
+  "cuenta": "Openbank",
+  "fecha": "2026-09-02",
+  "hora": "",
+  "concepto": "TRASPASO DESDE CAIXABANK",
+  "importe": 480,
+  "saldo": 1867.77,
+  "clave": "Openbank|2026-09-02||480.00|1867.77#1",
+  "categoria": "Traspaso entre mis cuentas"
+ },
+ {
+  "cuenta": "CaixaBank",
+  "fecha": "2026-09-01",
+  "hora": "",
+  "concepto": "ALQUILER VIVIENDA 09/2026",
+  "importe": -850,
+  "saldo": 9361.08,
+  "clave": "CaixaBank|2026-09-01||-850.00|9361.08#1",
+  "categoria": "Alquiler"
+ },
+ {
+  "cuenta": "ING",
+  "fecha": "2026-08-31",
+  "hora": "",
+  "concepto": "INTERESES CUENTA AHORRO",
+  "importe": 34.77,
+  "saldo": 55671.02,
+  "clave": "ING|2026-08-31||34.77|55671.02#1",
+  "categoria": "Intereses"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2026-08-28",
+  "hora": "16:07",
+  "concepto": "FRUTERIA LA HUERTA",
+  "importe": -15.37,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2026-08-28|16:07|-15.37|#1",
+  "categoria": "Supermercado"
+ },
+ {
+  "cuenta": "CaixaBank",
+  "fecha": "2026-08-28",
+  "hora": "",
+  "concepto": "NOMINA EMPRESA EJEMPLO SL",
+  "importe": 2150,
+  "saldo": 10211.08,
+  "clave": "CaixaBank|2026-08-28||2150.00|10211.08#1",
+  "categoria": "Nómina"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2026-08-27",
+  "hora": "17:00",
+  "concepto": "RESTAURANTE LA PLAZA",
+  "importe": -50.77,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2026-08-27|17:00|-50.77|#1",
+  "categoria": "Restaurantes y caprichos"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2026-08-27",
+  "hora": "13:45",
+  "concepto": "CAFETERIA CENTRAL",
+  "importe": -8.07,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2026-08-27|13:45|-8.07|#1",
+  "categoria": "Restaurantes y caprichos"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2026-08-26",
+  "hora": "21:07",
+  "concepto": "GASOLINERA RUTA",
+  "importe": -40.99,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2026-08-26|21:07|-40.99|#1",
+  "categoria": "Transporte"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2026-08-26",
+  "hora": "20:52",
+  "concepto": "CAFETERIA CENTRAL",
+  "importe": -8.1,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2026-08-26|20:52|-8.10|#1",
+  "categoria": "Restaurantes y caprichos"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2026-08-26",
+  "hora": "12:52",
+  "concepto": "SUPERMERCADO EL BARRIO",
+  "importe": -27.07,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2026-08-26|12:52|-27.07|#1",
+  "categoria": "Supermercado"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2026-08-26",
+  "hora": "08:15",
+  "concepto": "TRANSPORTE PUBLICO RECARGA",
+  "importe": -20.0,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2026-08-26|08:15|-20.00|#1",
+  "categoria": "Transporte"
+ },
+ {
+  "cuenta": "CaixaBank",
+  "fecha": "2026-08-24",
+  "hora": "",
+  "concepto": "BIZUM COMPRA",
+  "importe": 23,
+  "saldo": 8061.08,
+  "clave": "CaixaBank|2026-08-24||23.00|8061.08#1",
+  "categoria": "Ajustes de gastos compartidos (comida)"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2026-08-23",
+  "hora": "16:45",
+  "concepto": "CAFETERIA CENTRAL",
+  "importe": -5.68,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2026-08-23|16:45|-5.68|#1",
+  "categoria": "Restaurantes y caprichos"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2026-08-23",
+  "hora": "10:45",
+  "concepto": "CINE ESTRENOS",
+  "importe": -9.48,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2026-08-23|10:45|-9.48|#1",
+  "categoria": "Ocio y cultura"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2026-08-17",
+  "hora": "14:45",
+  "concepto": "SUPERMERCADO EL BARRIO",
+  "importe": -45.07,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2026-08-17|14:45|-45.07|#1",
+  "categoria": "Supermercado"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2026-08-15",
+  "hora": "14:31",
+  "concepto": "FRUTERIA LA HUERTA",
+  "importe": -11.37,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2026-08-15|14:31|-11.37|#1",
+  "categoria": "Supermercado"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2026-08-13",
+  "hora": "19:31",
+  "concepto": "CAFETERIA CENTRAL",
+  "importe": -5.96,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2026-08-13|19:31|-5.96|#1",
+  "categoria": "Restaurantes y caprichos"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2026-08-12",
+  "hora": "10:07",
+  "concepto": "TIENDA ONLINE",
+  "importe": -18.14,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2026-08-12|10:07|-18.14|#1",
+  "categoria": "Compras online"
+ },
+ {
+  "cuenta": "CaixaBank",
+  "fecha": "2026-08-12",
+  "hora": "",
+  "concepto": "RECIBO AGUAS MUNICIPALES",
+  "importe": -37.55,
+  "saldo": 8038.08,
+  "clave": "CaixaBank|2026-08-12||-37.55|8038.08#1",
+  "categoria": "Agua"
+ },
+ {
+  "cuenta": "CaixaBank",
+  "fecha": "2026-08-11",
+  "hora": "",
+  "concepto": "BIZUM COMIDA DOMINGO",
+  "importe": 27,
+  "saldo": 8075.63,
+  "clave": "CaixaBank|2026-08-11||27.00|8075.63#1",
+  "categoria": "Ajustes de gastos compartidos (comida)"
+ },
+ {
+  "cuenta": "CaixaBank",
+  "fecha": "2026-08-09",
+  "hora": "",
+  "concepto": "RECIBO STREAMFLIX",
+  "importe": -12.99,
+  "saldo": 8048.63,
+  "clave": "CaixaBank|2026-08-09||-12.99|8048.63#1",
+  "categoria": "Suscripciones"
+ },
+ {
+  "cuenta": "CaixaBank",
+  "fecha": "2026-08-08",
+  "hora": "",
+  "concepto": "RECIBO LUZ HOGAR ENERGIA",
+  "importe": -77.32,
+  "saldo": 8061.62,
+  "clave": "CaixaBank|2026-08-08||-77.32|8061.62#1",
+  "categoria": "Luz y gas"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2026-08-07",
+  "hora": "16:45",
+  "concepto": "CAFETERIA CENTRAL",
+  "importe": -3.49,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2026-08-07|16:45|-3.49|#1",
+  "categoria": "Restaurantes y caprichos"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2026-08-06",
+  "hora": "16:52",
+  "concepto": "SUPERMERCADO EL BARRIO",
+  "importe": -22.06,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2026-08-06|16:52|-22.06|#1",
+  "categoria": "Supermercado"
+ },
+ {
+  "cuenta": "CaixaBank",
+  "fecha": "2026-08-06",
+  "hora": "",
+  "concepto": "RECIBO MOVILCOM",
+  "importe": -14.95,
+  "saldo": 8138.94,
+  "clave": "CaixaBank|2026-08-06||-14.95|8138.94#1",
+  "categoria": "Móvil"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2026-08-05",
+  "hora": "16:45",
+  "concepto": "FARMACIA SAN JOSE",
+  "importe": -11.89,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2026-08-05|16:45|-11.89|#1",
+  "categoria": "Salud y farmacia"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2026-08-05",
+  "hora": "10:52",
+  "concepto": "RESTAURANTE LA PLAZA",
+  "importe": -48.23,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2026-08-05|10:52|-48.23|#1",
+  "categoria": "Restaurantes y caprichos"
+ },
+ {
+  "cuenta": "CaixaBank",
+  "fecha": "2026-08-05",
+  "hora": "",
+  "concepto": "RECIBO FIBRANET",
+  "importe": -39.9,
+  "saldo": 8153.89,
+  "clave": "CaixaBank|2026-08-05||-39.90|8153.89#1",
+  "categoria": "Internet y teléfono fijo"
+ },
+ {
+  "cuenta": "Openbank",
+  "fecha": "2026-08-05",
+  "hora": "",
+  "concepto": "LIQUIDACION TARJETA CREDITO",
+  "importe": -489.08,
+  "saldo": 1387.77,
+  "clave": "Openbank|2026-08-05||-489.08|1387.77#1",
+  "categoria": "Pago de la tarjeta"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2026-08-04",
+  "hora": "11:00",
+  "concepto": "SUPERMERCADO EL BARRIO",
+  "importe": -66.13,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2026-08-04|11:00|-66.13|#1",
+  "categoria": "Supermercado"
+ },
+ {
+  "cuenta": "CaixaBank",
+  "fecha": "2026-08-03",
+  "hora": "",
+  "concepto": "TRANSFERENCIA CUENTA DE VIAJES",
+  "importe": -150,
+  "saldo": 8193.79,
+  "clave": "CaixaBank|2026-08-03||-150.00|8193.79#1",
+  "categoria": "Aportación a la cuenta de viajes"
+ },
+ {
+  "cuenta": "CaixaBank",
+  "fecha": "2026-08-02",
+  "hora": "",
+  "concepto": "TRASPASO A CUENTA AHORRO ING",
+  "importe": -300,
+  "saldo": 8823.79,
+  "clave": "CaixaBank|2026-08-02||-300.00|8823.79#1",
+  "categoria": "Traspaso entre mis cuentas"
+ },
+ {
+  "cuenta": "CaixaBank",
+  "fecha": "2026-08-02",
+  "hora": "",
+  "concepto": "TRASPASO A OPENBANK",
+  "importe": -480,
+  "saldo": 8343.79,
+  "clave": "CaixaBank|2026-08-02||-480.00|8343.79#1",
+  "categoria": "Traspaso entre mis cuentas"
+ },
+ {
+  "cuenta": "ING",
+  "fecha": "2026-08-02",
+  "hora": "",
+  "concepto": "TRASPASO DESDE CAIXABANK",
+  "importe": 300,
+  "saldo": 55636.25,
+  "clave": "ING|2026-08-02||300.00|55636.25#1",
+  "categoria": "Traspaso entre mis cuentas"
+ },
+ {
+  "cuenta": "Openbank",
+  "fecha": "2026-08-02",
+  "hora": "",
+  "concepto": "TRASPASO DESDE CAIXABANK",
+  "importe": 480,
+  "saldo": 1876.85,
+  "clave": "Openbank|2026-08-02||480.00|1876.85#1",
+  "categoria": "Traspaso entre mis cuentas"
+ },
+ {
+  "cuenta": "CaixaBank",
+  "fecha": "2026-08-01",
+  "hora": "",
+  "concepto": "ALQUILER VIVIENDA 08/2026",
+  "importe": -850,
+  "saldo": 9123.79,
+  "clave": "CaixaBank|2026-08-01||-850.00|9123.79#1",
+  "categoria": "Alquiler"
+ },
+ {
+  "cuenta": "ING",
+  "fecha": "2026-07-31",
+  "hora": "",
+  "concepto": "INTERESES CUENTA AHORRO",
+  "importe": 34.56,
+  "saldo": 55336.25,
+  "clave": "ING|2026-07-31||34.56|55336.25#1",
+  "categoria": "Intereses"
+ },
+ {
+  "cuenta": "CaixaBank",
+  "fecha": "2026-07-28",
+  "hora": "",
+  "concepto": "NOMINA EMPRESA EJEMPLO SL",
+  "importe": 2150,
+  "saldo": 9973.79,
+  "clave": "CaixaBank|2026-07-28||2150.00|9973.79#1",
+  "categoria": "Nómina"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2026-07-24",
+  "hora": "18:31",
+  "concepto": "TIENDA ONLINE",
+  "importe": -46.66,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2026-07-24|18:31|-46.66|#1",
+  "categoria": "Compras online"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2026-07-24",
+  "hora": "11:31",
+  "concepto": "GASOLINERA RUTA",
+  "importe": -43.0,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2026-07-24|11:31|-43.00|#1",
+  "categoria": "Transporte"
+ },
+ {
+  "cuenta": "CaixaBank",
+  "fecha": "2026-07-24",
+  "hora": "",
+  "concepto": "BIZUM COMPRA",
+  "importe": 14,
+  "saldo": 7823.79,
+  "clave": "CaixaBank|2026-07-24||14.00|7823.79#1",
+  "categoria": "Ajustes de gastos compartidos (comida)"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2026-07-22",
+  "hora": "21:15",
+  "concepto": "CINE ESTRENOS",
+  "importe": -13.79,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2026-07-22|21:15|-13.79|#1",
+  "categoria": "Ocio y cultura"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2026-07-22",
+  "hora": "13:15",
+  "concepto": "CAFETERIA CENTRAL",
+  "importe": -6.81,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2026-07-22|13:15|-6.81|#1",
+  "categoria": "Restaurantes y caprichos"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2026-07-22",
+  "hora": "12:00",
+  "concepto": "SUPERMERCADO EL BARRIO",
+  "importe": -26.88,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2026-07-22|12:00|-26.88|#1",
+  "categoria": "Supermercado"
+ },
+ {
+  "cuenta": "CaixaBank",
+  "fecha": "2026-07-22",
+  "hora": "",
+  "concepto": "PELUQUERIA ESTILO",
+  "importe": -22,
+  "saldo": 7809.79,
+  "clave": "CaixaBank|2026-07-22||-22.00|7809.79#1",
+  "categoria": "Cuidado personal"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2026-07-19",
+  "hora": "16:45",
+  "concepto": "FRUTERIA LA HUERTA",
+  "importe": -13.84,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2026-07-19|16:45|-13.84|#1",
+  "categoria": "Supermercado"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2026-07-19",
+  "hora": "09:00",
+  "concepto": "FRUTERIA LA HUERTA",
+  "importe": -15.83,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2026-07-19|09:00|-15.83|#1",
+  "categoria": "Supermercado"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2026-07-18",
+  "hora": "16:52",
+  "concepto": "SUPERMERCADO EL BARRIO",
+  "importe": -54.01,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2026-07-18|16:52|-54.01|#1",
+  "categoria": "Supermercado"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2026-07-18",
+  "hora": "11:22",
+  "concepto": "CAFETERIA CENTRAL",
+  "importe": -7.27,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2026-07-18|11:22|-7.27|#1",
+  "categoria": "Restaurantes y caprichos"
+ },
+ {
+  "cuenta": "CaixaBank",
+  "fecha": "2026-07-18",
+  "hora": "",
+  "concepto": "DEVOLUCION AEAT IRPF",
+  "importe": 412.36,
+  "saldo": 7831.79,
+  "clave": "CaixaBank|2026-07-18||412.36|7831.79#1",
+  "categoria": "Devolución de Hacienda"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2026-07-16",
+  "hora": "15:52",
+  "concepto": "RESTAURANTE LA PLAZA",
+  "importe": -26.8,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2026-07-16|15:52|-26.80|#1",
+  "categoria": "Restaurantes y caprichos"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2026-07-12",
+  "hora": "20:22",
+  "concepto": "RESTAURANTE LA PLAZA",
+  "importe": -31.14,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2026-07-12|20:22|-31.14|#1",
+  "categoria": "Restaurantes y caprichos"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2026-07-11",
+  "hora": "12:22",
+  "concepto": "CAFETERIA CENTRAL",
+  "importe": -6.44,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2026-07-11|12:22|-6.44|#1",
+  "categoria": "Restaurantes y caprichos"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2026-07-11",
+  "hora": "08:45",
+  "concepto": "CAFETERIA CENTRAL",
+  "importe": -7.95,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2026-07-11|08:45|-7.95|#1",
+  "categoria": "Restaurantes y caprichos"
+ },
+ {
+  "cuenta": "CaixaBank",
+  "fecha": "2026-07-11",
+  "hora": "",
+  "concepto": "BIZUM CENA",
+  "importe": 28,
+  "saldo": 7419.43,
+  "clave": "CaixaBank|2026-07-11||28.00|7419.43#1",
+  "categoria": "Ajustes de gastos compartidos (comida)"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2026-07-09",
+  "hora": "08:07",
+  "concepto": "CAFETERIA CENTRAL",
+  "importe": -8.6,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2026-07-09|08:07|-8.60|#1",
+  "categoria": "Restaurantes y caprichos"
+ },
+ {
+  "cuenta": "CaixaBank",
+  "fecha": "2026-07-09",
+  "hora": "",
+  "concepto": "RECIBO STREAMFLIX",
+  "importe": -12.99,
+  "saldo": 7391.43,
+  "clave": "CaixaBank|2026-07-09||-12.99|7391.43#1",
+  "categoria": "Suscripciones"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2026-07-08",
+  "hora": "11:31",
+  "concepto": "SUPERMERCADO EL BARRIO",
+  "importe": -67.04,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2026-07-08|11:31|-67.04|#1",
+  "categoria": "Supermercado"
+ },
+ {
+  "cuenta": "CaixaBank",
+  "fecha": "2026-07-08",
+  "hora": "",
+  "concepto": "RECIBO LUZ HOGAR ENERGIA",
+  "importe": -42.64,
+  "saldo": 7404.42,
+  "clave": "CaixaBank|2026-07-08||-42.64|7404.42#1",
+  "categoria": "Luz y gas"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2026-07-07",
+  "hora": "16:52",
+  "concepto": "TRANSPORTE PUBLICO RECARGA",
+  "importe": -20.0,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2026-07-07|16:52|-20.00|#1",
+  "categoria": "Transporte"
+ },
+ {
+  "cuenta": "CaixaBank",
+  "fecha": "2026-07-06",
+  "hora": "",
+  "concepto": "RECIBO MOVILCOM",
+  "importe": -14.95,
+  "saldo": 7447.06,
+  "clave": "CaixaBank|2026-07-06||-14.95|7447.06#1",
+  "categoria": "Móvil"
+ },
+ {
+  "cuenta": "CaixaBank",
+  "fecha": "2026-07-05",
+  "hora": "",
+  "concepto": "RECIBO FIBRANET",
+  "importe": -39.9,
+  "saldo": 7462.01,
+  "clave": "CaixaBank|2026-07-05||-39.90|7462.01#1",
+  "categoria": "Internet y teléfono fijo"
+ },
+ {
+  "cuenta": "Openbank",
+  "fecha": "2026-07-05",
+  "hora": "",
+  "concepto": "LIQUIDACION TARJETA CREDITO",
+  "importe": -444.06,
+  "saldo": 1396.85,
+  "clave": "Openbank|2026-07-05||-444.06|1396.85#1",
+  "categoria": "Pago de la tarjeta"
+ },
+ {
+  "cuenta": "CaixaBank",
+  "fecha": "2026-07-03",
+  "hora": "",
+  "concepto": "TRANSFERENCIA CUENTA DE VIAJES",
+  "importe": -150,
+  "saldo": 7501.91,
+  "clave": "CaixaBank|2026-07-03||-150.00|7501.91#1",
+  "categoria": "Aportación a la cuenta de viajes"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2026-07-02",
+  "hora": "21:00",
+  "concepto": "FARMACIA SAN JOSE",
+  "importe": -23.93,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2026-07-02|21:00|-23.93|#1",
+  "categoria": "Salud y farmacia"
+ },
+ {
+  "cuenta": "CaixaBank",
+  "fecha": "2026-07-02",
+  "hora": "",
+  "concepto": "TRASPASO A CUENTA AHORRO ING",
+  "importe": -300,
+  "saldo": 8131.91,
+  "clave": "CaixaBank|2026-07-02||-300.00|8131.91#1",
+  "categoria": "Traspaso entre mis cuentas"
+ },
+ {
+  "cuenta": "CaixaBank",
+  "fecha": "2026-07-02",
+  "hora": "",
+  "concepto": "TRASPASO A OPENBANK",
+  "importe": -480,
+  "saldo": 7651.91,
+  "clave": "CaixaBank|2026-07-02||-480.00|7651.91#1",
+  "categoria": "Traspaso entre mis cuentas"
+ },
+ {
+  "cuenta": "ING",
+  "fecha": "2026-07-02",
+  "hora": "",
+  "concepto": "TRASPASO DESDE CAIXABANK",
+  "importe": 300,
+  "saldo": 55301.69,
+  "clave": "ING|2026-07-02||300.00|55301.69#1",
+  "categoria": "Traspaso entre mis cuentas"
+ },
+ {
+  "cuenta": "Openbank",
+  "fecha": "2026-07-02",
+  "hora": "",
+  "concepto": "TRASPASO DESDE CAIXABANK",
+  "importe": 480,
+  "saldo": 1840.91,
+  "clave": "Openbank|2026-07-02||480.00|1840.91#1",
+  "categoria": "Traspaso entre mis cuentas"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2026-07-01",
+  "hora": "10:15",
+  "concepto": "SUPERMERCADO EL BARRIO",
+  "importe": -69.09,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2026-07-01|10:15|-69.09|#1",
+  "categoria": "Supermercado"
+ },
+ {
+  "cuenta": "CaixaBank",
+  "fecha": "2026-07-01",
+  "hora": "",
+  "concepto": "ALQUILER VIVIENDA 07/2026",
+  "importe": -850,
+  "saldo": 8431.91,
+  "clave": "CaixaBank|2026-07-01||-850.00|8431.91#1",
+  "categoria": "Alquiler"
+ },
+ {
+  "cuenta": "ING",
+  "fecha": "2026-06-30",
+  "hora": "",
+  "concepto": "INTERESES CUENTA AHORRO",
+  "importe": 34.35,
+  "saldo": 55001.69,
+  "clave": "ING|2026-06-30||34.35|55001.69#1",
+  "categoria": "Intereses"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2026-06-28",
+  "hora": "21:45",
+  "concepto": "CAFETERIA CENTRAL",
+  "importe": -6.61,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2026-06-28|21:45|-6.61|#1",
+  "categoria": "Restaurantes y caprichos"
+ },
+ {
+  "cuenta": "CaixaBank",
+  "fecha": "2026-06-28",
+  "hora": "",
+  "concepto": "NOMINA EMPRESA EJEMPLO SL",
+  "importe": 2150,
+  "saldo": 9281.91,
+  "clave": "CaixaBank|2026-06-28||2150.00|9281.91#1",
+  "categoria": "Nómina"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2026-06-26",
+  "hora": "15:15",
+  "concepto": "FARMACIA SAN JOSE",
+  "importe": -16.47,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2026-06-26|15:15|-16.47|#1",
+  "categoria": "Salud y farmacia"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2026-06-25",
+  "hora": "11:22",
+  "concepto": "CAFETERIA CENTRAL",
+  "importe": -6.05,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2026-06-25|11:22|-6.05|#1",
+  "categoria": "Restaurantes y caprichos"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2026-06-24",
+  "hora": "12:31",
+  "concepto": "RESTAURANTE LA PLAZA",
+  "importe": -28.23,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2026-06-24|12:31|-28.23|#1",
+  "categoria": "Restaurantes y caprichos"
+ },
+ {
+  "cuenta": "CaixaBank",
+  "fecha": "2026-06-24",
+  "hora": "",
+  "concepto": "BIZUM CENA",
+  "importe": 35,
+  "saldo": 7131.91,
+  "clave": "CaixaBank|2026-06-24||35.00|7131.91#1",
+  "categoria": "Ajustes de gastos compartidos (comida)"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2026-06-23",
+  "hora": "14:15",
+  "concepto": "CAFETERIA CENTRAL",
+  "importe": -4.64,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2026-06-23|14:15|-4.64|#1",
+  "categoria": "Restaurantes y caprichos"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2026-06-23",
+  "hora": "13:31",
+  "concepto": "TRANSPORTE PUBLICO RECARGA",
+  "importe": -20.0,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2026-06-23|13:31|-20.00|#1",
+  "categoria": "Transporte"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2026-06-21",
+  "hora": "21:52",
+  "concepto": "GASOLINERA RUTA",
+  "importe": -47.23,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2026-06-21|21:52|-47.23|#1",
+  "categoria": "Transporte"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2026-06-21",
+  "hora": "08:31",
+  "concepto": "CAFETERIA CENTRAL",
+  "importe": -5.11,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2026-06-21|08:31|-5.11|#1",
+  "categoria": "Restaurantes y caprichos"
+ },
+ {
+  "cuenta": "CaixaBank",
+  "fecha": "2026-06-20",
+  "hora": "",
+  "concepto": "NOMINA PAGA EXTRA EMPRESA EJEMPLO SL",
+  "importe": 2150,
+  "saldo": 7096.91,
+  "clave": "CaixaBank|2026-06-20||2150.00|7096.91#1",
+  "categoria": "Nómina"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2026-06-19",
+  "hora": "10:22",
+  "concepto": "SUPERMERCADO EL BARRIO",
+  "importe": -52.16,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2026-06-19|10:22|-52.16|#1",
+  "categoria": "Supermercado"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2026-06-12",
+  "hora": "08:22",
+  "concepto": "RESTAURANTE LA PLAZA",
+  "importe": -45.34,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2026-06-12|08:22|-45.34|#1",
+  "categoria": "Restaurantes y caprichos"
+ },
+ {
+  "cuenta": "CaixaBank",
+  "fecha": "2026-06-12",
+  "hora": "",
+  "concepto": "RECIBO AGUAS MUNICIPALES",
+  "importe": -35.69,
+  "saldo": 4946.91,
+  "clave": "CaixaBank|2026-06-12||-35.69|4946.91#1",
+  "categoria": "Agua"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2026-06-11",
+  "hora": "16:52",
+  "concepto": "FRUTERIA LA HUERTA",
+  "importe": -21.61,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2026-06-11|16:52|-21.61|#1",
+  "categoria": "Supermercado"
+ },
+ {
+  "cuenta": "CaixaBank",
+  "fecha": "2026-06-11",
+  "hora": "",
+  "concepto": "BIZUM COMIDA DOMINGO",
+  "importe": 18,
+  "saldo": 4982.6,
+  "clave": "CaixaBank|2026-06-11||18.00|4982.60#1",
+  "categoria": "Ajustes de gastos compartidos (comida)"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2026-06-09",
+  "hora": "15:15",
+  "concepto": "SUPERMERCADO EL BARRIO",
+  "importe": -61.74,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2026-06-09|15:15|-61.74|#1",
+  "categoria": "Supermercado"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2026-06-09",
+  "hora": "09:15",
+  "concepto": "SUPERMERCADO EL BARRIO",
+  "importe": -35.11,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2026-06-09|09:15|-35.11|#1",
+  "categoria": "Supermercado"
+ },
+ {
+  "cuenta": "CaixaBank",
+  "fecha": "2026-06-09",
+  "hora": "",
+  "concepto": "RECIBO STREAMFLIX",
+  "importe": -12.99,
+  "saldo": 4964.6,
+  "clave": "CaixaBank|2026-06-09||-12.99|4964.60#1",
+  "categoria": "Suscripciones"
+ },
+ {
+  "cuenta": "CaixaBank",
+  "fecha": "2026-06-08",
+  "hora": "",
+  "concepto": "RECIBO LUZ HOGAR ENERGIA",
+  "importe": -50.74,
+  "saldo": 4977.59,
+  "clave": "CaixaBank|2026-06-08||-50.74|4977.59#1",
+  "categoria": "Luz y gas"
+ },
+ {
+  "cuenta": "CaixaBank",
+  "fecha": "2026-06-06",
+  "hora": "",
+  "concepto": "RECIBO MOVILCOM",
+  "importe": -14.95,
+  "saldo": 5028.33,
+  "clave": "CaixaBank|2026-06-06||-14.95|5028.33#1",
+  "categoria": "Móvil"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2026-06-05",
+  "hora": "12:07",
+  "concepto": "SUPERMERCADO EL BARRIO",
+  "importe": -46.35,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2026-06-05|12:07|-46.35|#1",
+  "categoria": "Supermercado"
+ },
+ {
+  "cuenta": "CaixaBank",
+  "fecha": "2026-06-05",
+  "hora": "",
+  "concepto": "RECIBO FIBRANET",
+  "importe": -39.9,
+  "saldo": 5043.28,
+  "clave": "CaixaBank|2026-06-05||-39.90|5043.28#1",
+  "categoria": "Internet y teléfono fijo"
+ },
+ {
+  "cuenta": "Openbank",
+  "fecha": "2026-06-05",
+  "hora": "",
+  "concepto": "LIQUIDACION TARJETA CREDITO",
+  "importe": -406.34,
+  "saldo": 1360.91,
+  "clave": "Openbank|2026-06-05||-406.34|1360.91#1",
+  "categoria": "Pago de la tarjeta"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2026-06-04",
+  "hora": "17:22",
+  "concepto": "FRUTERIA LA HUERTA",
+  "importe": -11.75,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2026-06-04|17:22|-11.75|#1",
+  "categoria": "Supermercado"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2026-06-04",
+  "hora": "15:45",
+  "concepto": "CAFETERIA CENTRAL",
+  "importe": -6.91,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2026-06-04|15:45|-6.91|#1",
+  "categoria": "Restaurantes y caprichos"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2026-06-04",
+  "hora": "12:15",
+  "concepto": "CINE ESTRENOS",
+  "importe": -14.95,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2026-06-04|12:15|-14.95|#1",
+  "categoria": "Ocio y cultura"
+ },
+ {
+  "cuenta": "CaixaBank",
+  "fecha": "2026-06-03",
+  "hora": "",
+  "concepto": "TRANSFERENCIA CUENTA DE VIAJES",
+  "importe": -150,
+  "saldo": 5083.18,
+  "clave": "CaixaBank|2026-06-03||-150.00|5083.18#1",
+  "categoria": "Aportación a la cuenta de viajes"
+ },
+ {
+  "cuenta": "CaixaBank",
+  "fecha": "2026-06-02",
+  "hora": "",
+  "concepto": "TRASPASO A CUENTA AHORRO ING",
+  "importe": -300,
+  "saldo": 5713.18,
+  "clave": "CaixaBank|2026-06-02||-300.00|5713.18#1",
+  "categoria": "Traspaso entre mis cuentas"
+ },
+ {
+  "cuenta": "CaixaBank",
+  "fecha": "2026-06-02",
+  "hora": "",
+  "concepto": "TRASPASO A OPENBANK",
+  "importe": -480,
+  "saldo": 5233.18,
+  "clave": "CaixaBank|2026-06-02||-480.00|5233.18#1",
+  "categoria": "Traspaso entre mis cuentas"
+ },
+ {
+  "cuenta": "ING",
+  "fecha": "2026-06-02",
+  "hora": "",
+  "concepto": "TRASPASO DESDE CAIXABANK",
+  "importe": 300,
+  "saldo": 54967.34,
+  "clave": "ING|2026-06-02||300.00|54967.34#1",
+  "categoria": "Traspaso entre mis cuentas"
+ },
+ {
+  "cuenta": "Openbank",
+  "fecha": "2026-06-02",
+  "hora": "",
+  "concepto": "TRASPASO DESDE CAIXABANK",
+  "importe": 480,
+  "saldo": 1767.25,
+  "clave": "Openbank|2026-06-02||480.00|1767.25#1",
+  "categoria": "Traspaso entre mis cuentas"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2026-06-01",
+  "hora": "11:45",
+  "concepto": "TIENDA ONLINE",
+  "importe": -13.8,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2026-06-01|11:45|-13.80|#1",
+  "categoria": "Compras online"
+ },
+ {
+  "cuenta": "CaixaBank",
+  "fecha": "2026-06-01",
+  "hora": "",
+  "concepto": "ALQUILER VIVIENDA 06/2026",
+  "importe": -850,
+  "saldo": 6013.18,
+  "clave": "CaixaBank|2026-06-01||-850.00|6013.18#1",
+  "categoria": "Alquiler"
+ },
+ {
+  "cuenta": "ING",
+  "fecha": "2026-05-31",
+  "hora": "",
+  "concepto": "INTERESES CUENTA AHORRO",
+  "importe": 34.15,
+  "saldo": 54667.34,
+  "clave": "ING|2026-05-31||34.15|54667.34#1",
+  "categoria": "Intereses"
+ },
+ {
+  "cuenta": "CaixaBank",
+  "fecha": "2026-05-28",
+  "hora": "",
+  "concepto": "NOMINA EMPRESA EJEMPLO SL",
+  "importe": 2150,
+  "saldo": 6863.18,
+  "clave": "CaixaBank|2026-05-28||2150.00|6863.18#1",
+  "categoria": "Nómina"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2026-05-26",
+  "hora": "12:15",
+  "concepto": "RESTAURANTE LA PLAZA",
+  "importe": -39.81,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2026-05-26|12:15|-39.81|#1",
+  "categoria": "Restaurantes y caprichos"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2026-05-25",
+  "hora": "10:15",
+  "concepto": "TRANSPORTE PUBLICO RECARGA",
+  "importe": -20.0,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2026-05-25|10:15|-20.00|#1",
+  "categoria": "Transporte"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2026-05-24",
+  "hora": "15:22",
+  "concepto": "FARMACIA SAN JOSE",
+  "importe": -20.46,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2026-05-24|15:22|-20.46|#1",
+  "categoria": "Salud y farmacia"
+ },
+ {
+  "cuenta": "CaixaBank",
+  "fecha": "2026-05-24",
+  "hora": "",
+  "concepto": "BIZUM COMPRA",
+  "importe": -35,
+  "saldo": 4713.18,
+  "clave": "CaixaBank|2026-05-24||-35.00|4713.18#1",
+  "categoria": "Ajustes de gastos compartidos (comida)"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2026-05-22",
+  "hora": "18:52",
+  "concepto": "SUPERMERCADO EL BARRIO",
+  "importe": -63.88,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2026-05-22|18:52|-63.88|#1",
+  "categoria": "Supermercado"
+ },
+ {
+  "cuenta": "CaixaBank",
+  "fecha": "2026-05-22",
+  "hora": "",
+  "concepto": "PELUQUERIA ESTILO",
+  "importe": -22,
+  "saldo": 4748.18,
+  "clave": "CaixaBank|2026-05-22||-22.00|4748.18#1",
+  "categoria": "Cuidado personal"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2026-05-21",
+  "hora": "15:22",
+  "concepto": "CAFETERIA CENTRAL",
+  "importe": -3.26,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2026-05-21|15:22|-3.26|#1",
+  "categoria": "Restaurantes y caprichos"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2026-05-20",
+  "hora": "09:15",
+  "concepto": "FRUTERIA LA HUERTA",
+  "importe": -11.47,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2026-05-20|09:15|-11.47|#1",
+  "categoria": "Supermercado"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2026-05-17",
+  "hora": "13:31",
+  "concepto": "SUPERMERCADO EL BARRIO",
+  "importe": -19.53,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2026-05-17|13:31|-19.53|#1",
+  "categoria": "Supermercado"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2026-05-16",
+  "hora": "21:45",
+  "concepto": "CAFETERIA CENTRAL",
+  "importe": -3.2,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2026-05-16|21:45|-3.20|#1",
+  "categoria": "Restaurantes y caprichos"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2026-05-14",
+  "hora": "13:15",
+  "concepto": "GASOLINERA RUTA",
+  "importe": -45.13,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2026-05-14|13:15|-45.13|#1",
+  "categoria": "Transporte"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2026-05-12",
+  "hora": "20:00",
+  "concepto": "RESTAURANTE LA PLAZA",
+  "importe": -24.97,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2026-05-12|20:00|-24.97|#1",
+  "categoria": "Restaurantes y caprichos"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2026-05-12",
+  "hora": "15:31",
+  "concepto": "CAFETERIA CENTRAL",
+  "importe": -6.94,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2026-05-12|15:31|-6.94|#1",
+  "categoria": "Restaurantes y caprichos"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2026-05-11",
+  "hora": "20:22",
+  "concepto": "TIENDA ONLINE",
+  "importe": -20.48,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2026-05-11|20:22|-20.48|#1",
+  "categoria": "Compras online"
+ },
+ {
+  "cuenta": "CaixaBank",
+  "fecha": "2026-05-11",
+  "hora": "",
+  "concepto": "BIZUM COMIDA DOMINGO",
+  "importe": 25,
+  "saldo": 4770.18,
+  "clave": "CaixaBank|2026-05-11||25.00|4770.18#1",
+  "categoria": "Ajustes de gastos compartidos (comida)"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2026-05-10",
+  "hora": "10:31",
+  "concepto": "FRUTERIA LA HUERTA",
+  "importe": -11.03,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2026-05-10|10:31|-11.03|#1",
+  "categoria": "Supermercado"
+ },
+ {
+  "cuenta": "CaixaBank",
+  "fecha": "2026-05-09",
+  "hora": "",
+  "concepto": "RECIBO STREAMFLIX",
+  "importe": -12.99,
+  "saldo": 4745.18,
+  "clave": "CaixaBank|2026-05-09||-12.99|4745.18#1",
+  "categoria": "Suscripciones"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2026-05-08",
+  "hora": "13:52",
+  "concepto": "CINE ESTRENOS",
+  "importe": -16.79,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2026-05-08|13:52|-16.79|#1",
+  "categoria": "Ocio y cultura"
+ },
+ {
+  "cuenta": "CaixaBank",
+  "fecha": "2026-05-08",
+  "hora": "",
+  "concepto": "RECIBO LUZ HOGAR ENERGIA",
+  "importe": -47.6,
+  "saldo": 4758.17,
+  "clave": "CaixaBank|2026-05-08||-47.60|4758.17#1",
+  "categoria": "Luz y gas"
+ },
+ {
+  "cuenta": "CaixaBank",
+  "fecha": "2026-05-06",
+  "hora": "",
+  "concepto": "RECIBO MOVILCOM",
+  "importe": -14.95,
+  "saldo": 4805.77,
+  "clave": "CaixaBank|2026-05-06||-14.95|4805.77#1",
+  "categoria": "Móvil"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2026-05-05",
+  "hora": "09:31",
+  "concepto": "SUPERMERCADO EL BARRIO",
+  "importe": -26.52,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2026-05-05|09:31|-26.52|#1",
+  "categoria": "Supermercado"
+ },
+ {
+  "cuenta": "CaixaBank",
+  "fecha": "2026-05-05",
+  "hora": "",
+  "concepto": "RECIBO FIBRANET",
+  "importe": -39.9,
+  "saldo": 4820.72,
+  "clave": "CaixaBank|2026-05-05||-39.90|4820.72#1",
+  "categoria": "Internet y teléfono fijo"
+ },
+ {
+  "cuenta": "Openbank",
+  "fecha": "2026-05-05",
+  "hora": "",
+  "concepto": "LIQUIDACION TARJETA CREDITO",
+  "importe": -428.97,
+  "saldo": 1287.25,
+  "clave": "Openbank|2026-05-05||-428.97|1287.25#1",
+  "categoria": "Pago de la tarjeta"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2026-05-04",
+  "hora": "11:52",
+  "concepto": "CAFETERIA CENTRAL",
+  "importe": -6.11,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2026-05-04|11:52|-6.11|#1",
+  "categoria": "Restaurantes y caprichos"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2026-05-03",
+  "hora": "17:15",
+  "concepto": "CAFETERIA CENTRAL",
+  "importe": -4.98,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2026-05-03|17:15|-4.98|#1",
+  "categoria": "Restaurantes y caprichos"
+ },
+ {
+  "cuenta": "CaixaBank",
+  "fecha": "2026-05-03",
+  "hora": "",
+  "concepto": "TRANSFERENCIA CUENTA DE VIAJES",
+  "importe": -150,
+  "saldo": 4860.62,
+  "clave": "CaixaBank|2026-05-03||-150.00|4860.62#1",
+  "categoria": "Aportación a la cuenta de viajes"
+ },
+ {
+  "cuenta": "CaixaBank",
+  "fecha": "2026-05-02",
+  "hora": "",
+  "concepto": "TRASPASO A CUENTA AHORRO ING",
+  "importe": -300,
+  "saldo": 5490.62,
+  "clave": "CaixaBank|2026-05-02||-300.00|5490.62#1",
+  "categoria": "Traspaso entre mis cuentas"
+ },
+ {
+  "cuenta": "CaixaBank",
+  "fecha": "2026-05-02",
+  "hora": "",
+  "concepto": "TRASPASO A OPENBANK",
+  "importe": -480,
+  "saldo": 5010.62,
+  "clave": "CaixaBank|2026-05-02||-480.00|5010.62#1",
+  "categoria": "Traspaso entre mis cuentas"
+ },
+ {
+  "cuenta": "ING",
+  "fecha": "2026-05-02",
+  "hora": "",
+  "concepto": "TRASPASO DESDE CAIXABANK",
+  "importe": 300,
+  "saldo": 54633.19,
+  "clave": "ING|2026-05-02||300.00|54633.19#1",
+  "categoria": "Traspaso entre mis cuentas"
+ },
+ {
+  "cuenta": "Openbank",
+  "fecha": "2026-05-02",
+  "hora": "",
+  "concepto": "TRASPASO DESDE CAIXABANK",
+  "importe": 480,
+  "saldo": 1716.22,
+  "clave": "Openbank|2026-05-02||480.00|1716.22#1",
+  "categoria": "Traspaso entre mis cuentas"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2026-05-01",
+  "hora": "09:15",
+  "concepto": "SUPERMERCADO EL BARRIO",
+  "importe": -61.78,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2026-05-01|09:15|-61.78|#1",
+  "categoria": "Supermercado"
+ },
+ {
+  "cuenta": "CaixaBank",
+  "fecha": "2026-05-01",
+  "hora": "",
+  "concepto": "ALQUILER VIVIENDA 05/2026",
+  "importe": -850,
+  "saldo": 5790.62,
+  "clave": "CaixaBank|2026-05-01||-850.00|5790.62#1",
+  "categoria": "Alquiler"
+ },
+ {
+  "cuenta": "ING",
+  "fecha": "2026-04-30",
+  "hora": "",
+  "concepto": "INTERESES CUENTA AHORRO",
+  "importe": 33.94,
+  "saldo": 54333.19,
+  "clave": "ING|2026-04-30||33.94|54333.19#1",
+  "categoria": "Intereses"
+ },
+ {
+  "cuenta": "CaixaBank",
+  "fecha": "2026-04-28",
+  "hora": "",
+  "concepto": "NOMINA EMPRESA EJEMPLO SL",
+  "importe": 2150,
+  "saldo": 6640.62,
+  "clave": "CaixaBank|2026-04-28||2150.00|6640.62#1",
+  "categoria": "Nómina"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2026-04-27",
+  "hora": "21:07",
+  "concepto": "SUPERMERCADO EL BARRIO",
+  "importe": -32.34,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2026-04-27|21:07|-32.34|#1",
+  "categoria": "Supermercado"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2026-04-27",
+  "hora": "16:45",
+  "concepto": "FRUTERIA LA HUERTA",
+  "importe": -21.38,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2026-04-27|16:45|-21.38|#1",
+  "categoria": "Supermercado"
+ },
+ {
+  "cuenta": "CaixaBank",
+  "fecha": "2026-04-24",
+  "hora": "",
+  "concepto": "BIZUM COMPRA",
+  "importe": -29,
+  "saldo": 4490.62,
+  "clave": "CaixaBank|2026-04-24||-29.00|4490.62#1",
+  "categoria": "Ajustes de gastos compartidos (comida)"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2026-04-23",
+  "hora": "17:00",
+  "concepto": "CAFETERIA CENTRAL",
+  "importe": -6.29,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2026-04-23|17:00|-6.29|#1",
+  "categoria": "Restaurantes y caprichos"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2026-04-21",
+  "hora": "16:00",
+  "concepto": "RESTAURANTE LA PLAZA",
+  "importe": -45.82,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2026-04-21|16:00|-45.82|#1",
+  "categoria": "Restaurantes y caprichos"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2026-04-19",
+  "hora": "11:07",
+  "concepto": "FARMACIA SAN JOSE",
+  "importe": -20.57,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2026-04-19|11:07|-20.57|#1",
+  "categoria": "Salud y farmacia"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2026-04-19",
+  "hora": "10:45",
+  "concepto": "SUPERMERCADO EL BARRIO",
+  "importe": -34.23,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2026-04-19|10:45|-34.23|#1",
+  "categoria": "Supermercado"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2026-04-18",
+  "hora": "20:45",
+  "concepto": "SUPERMERCADO EL BARRIO",
+  "importe": -60.19,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2026-04-18|20:45|-60.19|#1",
+  "categoria": "Supermercado"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2026-04-18",
+  "hora": "08:45",
+  "concepto": "GASOLINERA RUTA",
+  "importe": -40.23,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2026-04-18|08:45|-40.23|#1",
+  "categoria": "Transporte"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2026-04-14",
+  "hora": "18:07",
+  "concepto": "CAFETERIA CENTRAL",
+  "importe": -7.67,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2026-04-14|18:07|-7.67|#1",
+  "categoria": "Restaurantes y caprichos"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2026-04-14",
+  "hora": "08:15",
+  "concepto": "FRUTERIA LA HUERTA",
+  "importe": -10.15,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2026-04-14|08:15|-10.15|#1",
+  "categoria": "Supermercado"
+ },
+ {
+  "cuenta": "CaixaBank",
+  "fecha": "2026-04-14",
+  "hora": "",
+  "concepto": "MODA CENTRO",
+  "importe": -78.06,
+  "saldo": 4519.62,
+  "clave": "CaixaBank|2026-04-14||-78.06|4519.62#1",
+  "categoria": "Ropa y calzado"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2026-04-13",
+  "hora": "16:52",
+  "concepto": "RESTAURANTE LA PLAZA",
+  "importe": -35.7,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2026-04-13|16:52|-35.70|#1",
+  "categoria": "Restaurantes y caprichos"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2026-04-12",
+  "hora": "18:22",
+  "concepto": "SUPERMERCADO EL BARRIO",
+  "importe": -36.67,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2026-04-12|18:22|-36.67|#1",
+  "categoria": "Supermercado"
+ },
+ {
+  "cuenta": "CaixaBank",
+  "fecha": "2026-04-12",
+  "hora": "",
+  "concepto": "RECIBO AGUAS MUNICIPALES",
+  "importe": -34.0,
+  "saldo": 4597.68,
+  "clave": "CaixaBank|2026-04-12||-34.00|4597.68#1",
+  "categoria": "Agua"
+ },
+ {
+  "cuenta": "CaixaBank",
+  "fecha": "2026-04-11",
+  "hora": "",
+  "concepto": "BIZUM CENA",
+  "importe": 34,
+  "saldo": 4631.68,
+  "clave": "CaixaBank|2026-04-11||34.00|4631.68#1",
+  "categoria": "Ajustes de gastos compartidos (comida)"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2026-04-10",
+  "hora": "12:15",
+  "concepto": "TIENDA ONLINE",
+  "importe": -26.17,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2026-04-10|12:15|-26.17|#1",
+  "categoria": "Compras online"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2026-04-09",
+  "hora": "19:00",
+  "concepto": "CAFETERIA CENTRAL",
+  "importe": -3.4,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2026-04-09|19:00|-3.40|#1",
+  "categoria": "Restaurantes y caprichos"
+ },
+ {
+  "cuenta": "CaixaBank",
+  "fecha": "2026-04-09",
+  "hora": "",
+  "concepto": "RECIBO STREAMFLIX",
+  "importe": -12.99,
+  "saldo": 4597.68,
+  "clave": "CaixaBank|2026-04-09||-12.99|4597.68#1",
+  "categoria": "Suscripciones"
+ },
+ {
+  "cuenta": "CaixaBank",
+  "fecha": "2026-04-08",
+  "hora": "",
+  "concepto": "RECIBO LUZ HOGAR ENERGIA",
+  "importe": -36.17,
+  "saldo": 4610.67,
+  "clave": "CaixaBank|2026-04-08||-36.17|4610.67#1",
+  "categoria": "Luz y gas"
+ },
+ {
+  "cuenta": "CaixaBank",
+  "fecha": "2026-04-06",
+  "hora": "",
+  "concepto": "RECIBO MOVILCOM",
+  "importe": -14.95,
+  "saldo": 4646.84,
+  "clave": "CaixaBank|2026-04-06||-14.95|4646.84#1",
+  "categoria": "Móvil"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2026-04-05",
+  "hora": "11:45",
+  "concepto": "CINE ESTRENOS",
+  "importe": -17.75,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2026-04-05|11:45|-17.75|#1",
+  "categoria": "Ocio y cultura"
+ },
+ {
+  "cuenta": "CaixaBank",
+  "fecha": "2026-04-05",
+  "hora": "",
+  "concepto": "RECIBO FIBRANET",
+  "importe": -39.9,
+  "saldo": 4661.79,
+  "clave": "CaixaBank|2026-04-05||-39.90|4661.79#1",
+  "categoria": "Internet y teléfono fijo"
+ },
+ {
+  "cuenta": "Openbank",
+  "fecha": "2026-04-05",
+  "hora": "",
+  "concepto": "LIQUIDACION TARJETA CREDITO",
+  "importe": -398.04,
+  "saldo": 1236.22,
+  "clave": "Openbank|2026-04-05||-398.04|1236.22#1",
+  "categoria": "Pago de la tarjeta"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2026-04-03",
+  "hora": "16:45",
+  "concepto": "CAFETERIA CENTRAL",
+  "importe": -4.44,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2026-04-03|16:45|-4.44|#1",
+  "categoria": "Restaurantes y caprichos"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2026-04-03",
+  "hora": "14:15",
+  "concepto": "TRANSPORTE PUBLICO RECARGA",
+  "importe": -20.0,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2026-04-03|14:15|-20.00|#1",
+  "categoria": "Transporte"
+ },
+ {
+  "cuenta": "CaixaBank",
+  "fecha": "2026-04-03",
+  "hora": "",
+  "concepto": "TRANSFERENCIA CUENTA DE VIAJES",
+  "importe": -150,
+  "saldo": 4701.69,
+  "clave": "CaixaBank|2026-04-03||-150.00|4701.69#1",
+  "categoria": "Aportación a la cuenta de viajes"
+ },
+ {
+  "cuenta": "CaixaBank",
+  "fecha": "2026-04-02",
+  "hora": "",
+  "concepto": "TRASPASO A CUENTA AHORRO ING",
+  "importe": -300,
+  "saldo": 5331.69,
+  "clave": "CaixaBank|2026-04-02||-300.00|5331.69#1",
+  "categoria": "Traspaso entre mis cuentas"
+ },
+ {
+  "cuenta": "CaixaBank",
+  "fecha": "2026-04-02",
+  "hora": "",
+  "concepto": "TRASPASO A OPENBANK",
+  "importe": -480,
+  "saldo": 4851.69,
+  "clave": "CaixaBank|2026-04-02||-480.00|4851.69#1",
+  "categoria": "Traspaso entre mis cuentas"
+ },
+ {
+  "cuenta": "ING",
+  "fecha": "2026-04-02",
+  "hora": "",
+  "concepto": "TRASPASO DESDE CAIXABANK",
+  "importe": 300,
+  "saldo": 54299.25,
+  "clave": "ING|2026-04-02||300.00|54299.25#1",
+  "categoria": "Traspaso entre mis cuentas"
+ },
+ {
+  "cuenta": "Openbank",
+  "fecha": "2026-04-02",
+  "hora": "",
+  "concepto": "TRASPASO DESDE CAIXABANK",
+  "importe": 480,
+  "saldo": 1634.26,
+  "clave": "Openbank|2026-04-02||480.00|1634.26#1",
+  "categoria": "Traspaso entre mis cuentas"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2026-04-01",
+  "hora": "21:52",
+  "concepto": "CAFETERIA CENTRAL",
+  "importe": -5.97,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2026-04-01|21:52|-5.97|#1",
+  "categoria": "Restaurantes y caprichos"
+ },
+ {
+  "cuenta": "CaixaBank",
+  "fecha": "2026-04-01",
+  "hora": "",
+  "concepto": "ALQUILER VIVIENDA 04/2026",
+  "importe": -850,
+  "saldo": 5631.69,
+  "clave": "CaixaBank|2026-04-01||-850.00|5631.69#1",
+  "categoria": "Alquiler"
+ },
+ {
+  "cuenta": "ING",
+  "fecha": "2026-03-31",
+  "hora": "",
+  "concepto": "INTERESES CUENTA AHORRO",
+  "importe": 33.73,
+  "saldo": 53999.25,
+  "clave": "ING|2026-03-31||33.73|53999.25#1",
+  "categoria": "Intereses"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2026-03-28",
+  "hora": "16:52",
+  "concepto": "GASOLINERA RUTA",
+  "importe": -54.23,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2026-03-28|16:52|-54.23|#1",
+  "categoria": "Transporte"
+ },
+ {
+  "cuenta": "CaixaBank",
+  "fecha": "2026-03-28",
+  "hora": "",
+  "concepto": "NOMINA EMPRESA EJEMPLO SL",
+  "importe": 2150,
+  "saldo": 6481.69,
+  "clave": "CaixaBank|2026-03-28||2150.00|6481.69#1",
+  "categoria": "Nómina"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2026-03-27",
+  "hora": "08:45",
+  "concepto": "TRANSPORTE PUBLICO RECARGA",
+  "importe": -20.0,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2026-03-27|08:45|-20.00|#1",
+  "categoria": "Transporte"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2026-03-24",
+  "hora": "18:52",
+  "concepto": "TIENDA ONLINE",
+  "importe": -27.24,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2026-03-24|18:52|-27.24|#1",
+  "categoria": "Compras online"
+ },
+ {
+  "cuenta": "CaixaBank",
+  "fecha": "2026-03-24",
+  "hora": "",
+  "concepto": "BIZUM CENA",
+  "importe": 36,
+  "saldo": 4331.69,
+  "clave": "CaixaBank|2026-03-24||36.00|4331.69#1",
+  "categoria": "Ajustes de gastos compartidos (comida)"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2026-03-22",
+  "hora": "12:52",
+  "concepto": "CAFETERIA CENTRAL",
+  "importe": -6.11,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2026-03-22|12:52|-6.11|#1",
+  "categoria": "Restaurantes y caprichos"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2026-03-22",
+  "hora": "10:07",
+  "concepto": "CAFETERIA CENTRAL",
+  "importe": -3.93,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2026-03-22|10:07|-3.93|#1",
+  "categoria": "Restaurantes y caprichos"
+ },
+ {
+  "cuenta": "CaixaBank",
+  "fecha": "2026-03-22",
+  "hora": "",
+  "concepto": "PELUQUERIA ESTILO",
+  "importe": -22,
+  "saldo": 4295.69,
+  "clave": "CaixaBank|2026-03-22||-22.00|4295.69#1",
+  "categoria": "Cuidado personal"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2026-03-21",
+  "hora": "12:00",
+  "concepto": "FRUTERIA LA HUERTA",
+  "importe": -21.63,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2026-03-21|12:00|-21.63|#1",
+  "categoria": "Supermercado"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2026-03-18",
+  "hora": "19:31",
+  "concepto": "CAFETERIA CENTRAL",
+  "importe": -2.68,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2026-03-18|19:31|-2.68|#1",
+  "categoria": "Restaurantes y caprichos"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2026-03-18",
+  "hora": "12:15",
+  "concepto": "RESTAURANTE LA PLAZA",
+  "importe": -39.24,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2026-03-18|12:15|-39.24|#1",
+  "categoria": "Restaurantes y caprichos"
+ },
+ {
+  "cuenta": "CaixaBank",
+  "fecha": "2026-03-15",
+  "hora": "",
+  "concepto": "RECIBO SEGURO HOGAR INQUILINO",
+  "importe": -148.0,
+  "saldo": 4317.69,
+  "clave": "CaixaBank|2026-03-15||-148.00|4317.69#1",
+  "categoria": "Seguro del hogar"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2026-03-14",
+  "hora": "13:22",
+  "concepto": "FRUTERIA LA HUERTA",
+  "importe": -16.09,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2026-03-14|13:22|-16.09|#1",
+  "categoria": "Supermercado"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2026-03-14",
+  "hora": "08:31",
+  "concepto": "SUPERMERCADO EL BARRIO",
+  "importe": -34.58,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2026-03-14|08:31|-34.58|#1",
+  "categoria": "Supermercado"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2026-03-13",
+  "hora": "20:22",
+  "concepto": "CAFETERIA CENTRAL",
+  "importe": -4.95,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2026-03-13|20:22|-4.95|#1",
+  "categoria": "Restaurantes y caprichos"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2026-03-11",
+  "hora": "08:45",
+  "concepto": "SUPERMERCADO EL BARRIO",
+  "importe": -28.27,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2026-03-11|08:45|-28.27|#1",
+  "categoria": "Supermercado"
+ },
+ {
+  "cuenta": "CaixaBank",
+  "fecha": "2026-03-11",
+  "hora": "",
+  "concepto": "BIZUM COMPRA",
+  "importe": 35,
+  "saldo": 4465.69,
+  "clave": "CaixaBank|2026-03-11||35.00|4465.69#1",
+  "categoria": "Ajustes de gastos compartidos (comida)"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2026-03-09",
+  "hora": "16:52",
+  "concepto": "FARMACIA SAN JOSE",
+  "importe": -13.5,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2026-03-09|16:52|-13.50|#1",
+  "categoria": "Salud y farmacia"
+ },
+ {
+  "cuenta": "CaixaBank",
+  "fecha": "2026-03-09",
+  "hora": "",
+  "concepto": "RECIBO STREAMFLIX",
+  "importe": -12.99,
+  "saldo": 4430.69,
+  "clave": "CaixaBank|2026-03-09||-12.99|4430.69#1",
+  "categoria": "Suscripciones"
+ },
+ {
+  "cuenta": "CaixaBank",
+  "fecha": "2026-03-08",
+  "hora": "",
+  "concepto": "RECIBO LUZ HOGAR ENERGIA",
+  "importe": -40.63,
+  "saldo": 4443.68,
+  "clave": "CaixaBank|2026-03-08||-40.63|4443.68#1",
+  "categoria": "Luz y gas"
+ },
+ {
+  "cuenta": "CaixaBank",
+  "fecha": "2026-03-06",
+  "hora": "",
+  "concepto": "RECIBO MOVILCOM",
+  "importe": -14.95,
+  "saldo": 4484.31,
+  "clave": "CaixaBank|2026-03-06||-14.95|4484.31#1",
+  "categoria": "Móvil"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2026-03-05",
+  "hora": "17:00",
+  "concepto": "RESTAURANTE LA PLAZA",
+  "importe": -55.99,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2026-03-05|17:00|-55.99|#1",
+  "categoria": "Restaurantes y caprichos"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2026-03-05",
+  "hora": "08:15",
+  "concepto": "CAFETERIA CENTRAL",
+  "importe": -3.98,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2026-03-05|08:15|-3.98|#1",
+  "categoria": "Restaurantes y caprichos"
+ },
+ {
+  "cuenta": "CaixaBank",
+  "fecha": "2026-03-05",
+  "hora": "",
+  "concepto": "RECIBO FIBRANET",
+  "importe": -39.9,
+  "saldo": 4499.26,
+  "clave": "CaixaBank|2026-03-05||-39.90|4499.26#1",
+  "categoria": "Internet y teléfono fijo"
+ },
+ {
+  "cuenta": "Openbank",
+  "fecha": "2026-03-05",
+  "hora": "",
+  "concepto": "LIQUIDACION TARJETA CREDITO",
+  "importe": -434.82,
+  "saldo": 1154.26,
+  "clave": "Openbank|2026-03-05||-434.82|1154.26#1",
+  "categoria": "Pago de la tarjeta"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2026-03-04",
+  "hora": "09:00",
+  "concepto": "SUPERMERCADO EL BARRIO",
+  "importe": -26.43,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2026-03-04|09:00|-26.43|#1",
+  "categoria": "Supermercado"
+ },
+ {
+  "cuenta": "CaixaBank",
+  "fecha": "2026-03-03",
+  "hora": "",
+  "concepto": "TRANSFERENCIA CUENTA DE VIAJES",
+  "importe": -150,
+  "saldo": 4539.16,
+  "clave": "CaixaBank|2026-03-03||-150.00|4539.16#1",
+  "categoria": "Aportación a la cuenta de viajes"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2026-03-02",
+  "hora": "13:31",
+  "concepto": "SUPERMERCADO EL BARRIO",
+  "importe": -24.54,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2026-03-02|13:31|-24.54|#1",
+  "categoria": "Supermercado"
+ },
+ {
+  "cuenta": "CaixaBank",
+  "fecha": "2026-03-02",
+  "hora": "",
+  "concepto": "TRASPASO A CUENTA AHORRO ING",
+  "importe": -300,
+  "saldo": 5169.16,
+  "clave": "CaixaBank|2026-03-02||-300.00|5169.16#1",
+  "categoria": "Traspaso entre mis cuentas"
+ },
+ {
+  "cuenta": "CaixaBank",
+  "fecha": "2026-03-02",
+  "hora": "",
+  "concepto": "TRASPASO A OPENBANK",
+  "importe": -480,
+  "saldo": 4689.16,
+  "clave": "CaixaBank|2026-03-02||-480.00|4689.16#1",
+  "categoria": "Traspaso entre mis cuentas"
+ },
+ {
+  "cuenta": "ING",
+  "fecha": "2026-03-02",
+  "hora": "",
+  "concepto": "TRASPASO DESDE CAIXABANK",
+  "importe": 300,
+  "saldo": 53965.52,
+  "clave": "ING|2026-03-02||300.00|53965.52#1",
+  "categoria": "Traspaso entre mis cuentas"
+ },
+ {
+  "cuenta": "Openbank",
+  "fecha": "2026-03-02",
+  "hora": "",
+  "concepto": "TRASPASO DESDE CAIXABANK",
+  "importe": 480,
+  "saldo": 1589.08,
+  "clave": "Openbank|2026-03-02||480.00|1589.08#1",
+  "categoria": "Traspaso entre mis cuentas"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2026-03-01",
+  "hora": "11:22",
+  "concepto": "CINE ESTRENOS",
+  "importe": -14.65,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2026-03-01|11:22|-14.65|#1",
+  "categoria": "Ocio y cultura"
+ },
+ {
+  "cuenta": "CaixaBank",
+  "fecha": "2026-03-01",
+  "hora": "",
+  "concepto": "ALQUILER VIVIENDA 03/2026",
+  "importe": -850,
+  "saldo": 5469.16,
+  "clave": "CaixaBank|2026-03-01||-850.00|5469.16#1",
+  "categoria": "Alquiler"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2026-02-28",
+  "hora": "20:15",
+  "concepto": "CAFETERIA CENTRAL",
+  "importe": -8.34,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2026-02-28|20:15|-8.34|#1",
+  "categoria": "Restaurantes y caprichos"
+ },
+ {
+  "cuenta": "CaixaBank",
+  "fecha": "2026-02-28",
+  "hora": "",
+  "concepto": "NOMINA EMPRESA EJEMPLO SL",
+  "importe": 2150,
+  "saldo": 6319.16,
+  "clave": "CaixaBank|2026-02-28||2150.00|6319.16#1",
+  "categoria": "Nómina"
+ },
+ {
+  "cuenta": "ING",
+  "fecha": "2026-02-28",
+  "hora": "",
+  "concepto": "INTERESES CUENTA AHORRO",
+  "importe": 33.52,
+  "saldo": 53665.52,
+  "clave": "ING|2026-02-28||33.52|53665.52#1",
+  "categoria": "Intereses"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2026-02-26",
+  "hora": "18:00",
+  "concepto": "SUPERMERCADO EL BARRIO",
+  "importe": -27.65,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2026-02-26|18:00|-27.65|#1",
+  "categoria": "Supermercado"
+ },
+ {
+  "cuenta": "CaixaBank",
+  "fecha": "2026-02-24",
+  "hora": "",
+  "concepto": "BIZUM COMPRA",
+  "importe": 33,
+  "saldo": 4169.16,
+  "clave": "CaixaBank|2026-02-24||33.00|4169.16#1",
+  "categoria": "Ajustes de gastos compartidos (comida)"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2026-02-22",
+  "hora": "21:15",
+  "concepto": "CAFETERIA CENTRAL",
+  "importe": -6.15,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2026-02-22|21:15|-6.15|#1",
+  "categoria": "Restaurantes y caprichos"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2026-02-22",
+  "hora": "13:45",
+  "concepto": "SUPERMERCADO EL BARRIO",
+  "importe": -21.14,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2026-02-22|13:45|-21.14|#1",
+  "categoria": "Supermercado"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2026-02-21",
+  "hora": "08:22",
+  "concepto": "RESTAURANTE LA PLAZA",
+  "importe": -47.71,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2026-02-21|08:22|-47.71|#1",
+  "categoria": "Restaurantes y caprichos"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2026-02-18",
+  "hora": "20:15",
+  "concepto": "SUPERMERCADO EL BARRIO",
+  "importe": -24.9,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2026-02-18|20:15|-24.90|#1",
+  "categoria": "Supermercado"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2026-02-17",
+  "hora": "17:52",
+  "concepto": "FRUTERIA LA HUERTA",
+  "importe": -12.39,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2026-02-17|17:52|-12.39|#1",
+  "categoria": "Supermercado"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2026-02-14",
+  "hora": "09:45",
+  "concepto": "GASOLINERA RUTA",
+  "importe": -54.58,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2026-02-14|09:45|-54.58|#1",
+  "categoria": "Transporte"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2026-02-14",
+  "hora": "08:00",
+  "concepto": "CAFETERIA CENTRAL",
+  "importe": -8.78,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2026-02-14|08:00|-8.78|#1",
+  "categoria": "Restaurantes y caprichos"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2026-02-13",
+  "hora": "21:15",
+  "concepto": "TIENDA ONLINE",
+  "importe": -26.01,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2026-02-13|21:15|-26.01|#1",
+  "categoria": "Compras online"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2026-02-12",
+  "hora": "18:15",
+  "concepto": "FARMACIA SAN JOSE",
+  "importe": -24.95,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2026-02-12|18:15|-24.95|#1",
+  "categoria": "Salud y farmacia"
+ },
+ {
+  "cuenta": "CaixaBank",
+  "fecha": "2026-02-12",
+  "hora": "",
+  "concepto": "RECIBO AGUAS MUNICIPALES",
+  "importe": -37.59,
+  "saldo": 4136.16,
+  "clave": "CaixaBank|2026-02-12||-37.59|4136.16#1",
+  "categoria": "Agua"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2026-02-11",
+  "hora": "17:45",
+  "concepto": "RESTAURANTE LA PLAZA",
+  "importe": -50.07,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2026-02-11|17:45|-50.07|#1",
+  "categoria": "Restaurantes y caprichos"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2026-02-11",
+  "hora": "17:22",
+  "concepto": "TRANSPORTE PUBLICO RECARGA",
+  "importe": -20.0,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2026-02-11|17:22|-20.00|#1",
+  "categoria": "Transporte"
+ },
+ {
+  "cuenta": "CaixaBank",
+  "fecha": "2026-02-11",
+  "hora": "",
+  "concepto": "BIZUM COMPRA",
+  "importe": -30,
+  "saldo": 4173.75,
+  "clave": "CaixaBank|2026-02-11||-30.00|4173.75#1",
+  "categoria": "Ajustes de gastos compartidos (comida)"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2026-02-09",
+  "hora": "08:22",
+  "concepto": "CAFETERIA CENTRAL",
+  "importe": -4.16,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2026-02-09|08:22|-4.16|#1",
+  "categoria": "Restaurantes y caprichos"
+ },
+ {
+  "cuenta": "CaixaBank",
+  "fecha": "2026-02-09",
+  "hora": "",
+  "concepto": "RECIBO STREAMFLIX",
+  "importe": -12.99,
+  "saldo": 4203.75,
+  "clave": "CaixaBank|2026-02-09||-12.99|4203.75#1",
+  "categoria": "Suscripciones"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2026-02-08",
+  "hora": "09:00",
+  "concepto": "CAFETERIA CENTRAL",
+  "importe": -2.65,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2026-02-08|09:00|-2.65|#1",
+  "categoria": "Restaurantes y caprichos"
+ },
+ {
+  "cuenta": "CaixaBank",
+  "fecha": "2026-02-08",
+  "hora": "",
+  "concepto": "RECIBO LUZ HOGAR ENERGIA",
+  "importe": -49.8,
+  "saldo": 4216.74,
+  "clave": "CaixaBank|2026-02-08||-49.80|4216.74#1",
+  "categoria": "Luz y gas"
+ },
+ {
+  "cuenta": "CaixaBank",
+  "fecha": "2026-02-06",
+  "hora": "",
+  "concepto": "RECIBO MOVILCOM",
+  "importe": -14.95,
+  "saldo": 4266.54,
+  "clave": "CaixaBank|2026-02-06||-14.95|4266.54#1",
+  "categoria": "Móvil"
+ },
+ {
+  "cuenta": "CaixaBank",
+  "fecha": "2026-02-05",
+  "hora": "",
+  "concepto": "RECIBO FIBRANET",
+  "importe": -39.9,
+  "saldo": 4281.49,
+  "clave": "CaixaBank|2026-02-05||-39.90|4281.49#1",
+  "categoria": "Internet y teléfono fijo"
+ },
+ {
+  "cuenta": "Openbank",
+  "fecha": "2026-02-05",
+  "hora": "",
+  "concepto": "LIQUIDACION TARJETA CREDITO",
+  "importe": -514.6,
+  "saldo": 1109.08,
+  "clave": "Openbank|2026-02-05||-514.60|1109.08#1",
+  "categoria": "Pago de la tarjeta"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2026-02-04",
+  "hora": "10:00",
+  "concepto": "SUPERMERCADO EL BARRIO",
+  "importe": -67.65,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2026-02-04|10:00|-67.65|#1",
+  "categoria": "Supermercado"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2026-02-03",
+  "hora": "13:07",
+  "concepto": "FRUTERIA LA HUERTA",
+  "importe": -12.07,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2026-02-03|13:07|-12.07|#1",
+  "categoria": "Supermercado"
+ },
+ {
+  "cuenta": "CaixaBank",
+  "fecha": "2026-02-03",
+  "hora": "",
+  "concepto": "TRANSFERENCIA CUENTA DE VIAJES",
+  "importe": -150,
+  "saldo": 4321.39,
+  "clave": "CaixaBank|2026-02-03||-150.00|4321.39#1",
+  "categoria": "Aportación a la cuenta de viajes"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2026-02-02",
+  "hora": "14:00",
+  "concepto": "CINE ESTRENOS",
+  "importe": -15.62,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2026-02-02|14:00|-15.62|#1",
+  "categoria": "Ocio y cultura"
+ },
+ {
+  "cuenta": "CaixaBank",
+  "fecha": "2026-02-02",
+  "hora": "",
+  "concepto": "TRASPASO A CUENTA AHORRO ING",
+  "importe": -300,
+  "saldo": 4951.39,
+  "clave": "CaixaBank|2026-02-02||-300.00|4951.39#1",
+  "categoria": "Traspaso entre mis cuentas"
+ },
+ {
+  "cuenta": "CaixaBank",
+  "fecha": "2026-02-02",
+  "hora": "",
+  "concepto": "TRASPASO A OPENBANK",
+  "importe": -480,
+  "saldo": 4471.39,
+  "clave": "CaixaBank|2026-02-02||-480.00|4471.39#1",
+  "categoria": "Traspaso entre mis cuentas"
+ },
+ {
+  "cuenta": "ING",
+  "fecha": "2026-02-02",
+  "hora": "",
+  "concepto": "TRASPASO DESDE CAIXABANK",
+  "importe": 300,
+  "saldo": 53632.0,
+  "clave": "ING|2026-02-02||300.00|53632.00#1",
+  "categoria": "Traspaso entre mis cuentas"
+ },
+ {
+  "cuenta": "Openbank",
+  "fecha": "2026-02-02",
+  "hora": "",
+  "concepto": "TRASPASO DESDE CAIXABANK",
+  "importe": 480,
+  "saldo": 1623.68,
+  "clave": "Openbank|2026-02-02||480.00|1623.68#1",
+  "categoria": "Traspaso entre mis cuentas"
+ },
+ {
+  "cuenta": "CaixaBank",
+  "fecha": "2026-02-01",
+  "hora": "",
+  "concepto": "ALQUILER VIVIENDA 02/2026",
+  "importe": -850,
+  "saldo": 5251.39,
+  "clave": "CaixaBank|2026-02-01||-850.00|5251.39#1",
+  "categoria": "Alquiler"
+ },
+ {
+  "cuenta": "ING",
+  "fecha": "2026-01-31",
+  "hora": "",
+  "concepto": "INTERESES CUENTA AHORRO",
+  "importe": 33.31,
+  "saldo": 53332.0,
+  "clave": "ING|2026-01-31||33.31|53332.00#1",
+  "categoria": "Intereses"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2026-01-28",
+  "hora": "12:07",
+  "concepto": "CAFETERIA CENTRAL",
+  "importe": -3.01,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2026-01-28|12:07|-3.01|#1",
+  "categoria": "Restaurantes y caprichos"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2026-01-28",
+  "hora": "11:22",
+  "concepto": "SUPERMERCADO EL BARRIO",
+  "importe": -57.24,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2026-01-28|11:22|-57.24|#1",
+  "categoria": "Supermercado"
+ },
+ {
+  "cuenta": "CaixaBank",
+  "fecha": "2026-01-28",
+  "hora": "",
+  "concepto": "NOMINA EMPRESA EJEMPLO SL",
+  "importe": 2150,
+  "saldo": 6101.39,
+  "clave": "CaixaBank|2026-01-28||2150.00|6101.39#1",
+  "categoria": "Nómina"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2026-01-27",
+  "hora": "18:07",
+  "concepto": "FARMACIA SAN JOSE",
+  "importe": -24.69,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2026-01-27|18:07|-24.69|#1",
+  "categoria": "Salud y farmacia"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2026-01-25",
+  "hora": "12:22",
+  "concepto": "CAFETERIA CENTRAL",
+  "importe": -7.8,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2026-01-25|12:22|-7.80|#1",
+  "categoria": "Restaurantes y caprichos"
+ },
+ {
+  "cuenta": "CaixaBank",
+  "fecha": "2026-01-24",
+  "hora": "",
+  "concepto": "BIZUM COMPRA",
+  "importe": -18,
+  "saldo": 3951.39,
+  "clave": "CaixaBank|2026-01-24||-18.00|3951.39#1",
+  "categoria": "Ajustes de gastos compartidos (comida)"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2026-01-23",
+  "hora": "08:07",
+  "concepto": "SUPERMERCADO EL BARRIO",
+  "importe": -53.29,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2026-01-23|08:07|-53.29|#1",
+  "categoria": "Supermercado"
+ },
+ {
+  "cuenta": "CaixaBank",
+  "fecha": "2026-01-22",
+  "hora": "",
+  "concepto": "PELUQUERIA ESTILO",
+  "importe": -22,
+  "saldo": 3969.39,
+  "clave": "CaixaBank|2026-01-22||-22.00|3969.39#1",
+  "categoria": "Cuidado personal"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2026-01-21",
+  "hora": "20:31",
+  "concepto": "FRUTERIA LA HUERTA",
+  "importe": -15.42,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2026-01-21|20:31|-15.42|#1",
+  "categoria": "Supermercado"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2026-01-21",
+  "hora": "16:52",
+  "concepto": "GASOLINERA RUTA",
+  "importe": -41.61,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2026-01-21|16:52|-41.61|#1",
+  "categoria": "Transporte"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2026-01-21",
+  "hora": "08:45",
+  "concepto": "SUPERMERCADO EL BARRIO",
+  "importe": -65.92,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2026-01-21|08:45|-65.92|#1",
+  "categoria": "Supermercado"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2026-01-18",
+  "hora": "20:31",
+  "concepto": "CINE ESTRENOS",
+  "importe": -15.18,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2026-01-18|20:31|-15.18|#1",
+  "categoria": "Ocio y cultura"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2026-01-18",
+  "hora": "08:22",
+  "concepto": "SUPERMERCADO EL BARRIO",
+  "importe": -66.41,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2026-01-18|08:22|-66.41|#1",
+  "categoria": "Supermercado"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2026-01-13",
+  "hora": "16:22",
+  "concepto": "CAFETERIA CENTRAL",
+  "importe": -4.27,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2026-01-13|16:22|-4.27|#1",
+  "categoria": "Restaurantes y caprichos"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2026-01-12",
+  "hora": "15:22",
+  "concepto": "CAFETERIA CENTRAL",
+  "importe": -3.64,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2026-01-12|15:22|-3.64|#1",
+  "categoria": "Restaurantes y caprichos"
+ },
+ {
+  "cuenta": "CaixaBank",
+  "fecha": "2026-01-11",
+  "hora": "",
+  "concepto": "BIZUM COMIDA DOMINGO",
+  "importe": -29,
+  "saldo": 3991.39,
+  "clave": "CaixaBank|2026-01-11||-29.00|3991.39#1",
+  "categoria": "Ajustes de gastos compartidos (comida)"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2026-01-09",
+  "hora": "21:07",
+  "concepto": "RESTAURANTE LA PLAZA",
+  "importe": -51.38,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2026-01-09|21:07|-51.38|#1",
+  "categoria": "Restaurantes y caprichos"
+ },
+ {
+  "cuenta": "CaixaBank",
+  "fecha": "2026-01-09",
+  "hora": "",
+  "concepto": "RECIBO STREAMFLIX",
+  "importe": -12.99,
+  "saldo": 4020.39,
+  "clave": "CaixaBank|2026-01-09||-12.99|4020.39#1",
+  "categoria": "Suscripciones"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2026-01-08",
+  "hora": "09:22",
+  "concepto": "TRANSPORTE PUBLICO RECARGA",
+  "importe": -20.0,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2026-01-08|09:22|-20.00|#1",
+  "categoria": "Transporte"
+ },
+ {
+  "cuenta": "CaixaBank",
+  "fecha": "2026-01-08",
+  "hora": "",
+  "concepto": "RECIBO LUZ HOGAR ENERGIA",
+  "importe": -63.54,
+  "saldo": 4033.38,
+  "clave": "CaixaBank|2026-01-08||-63.54|4033.38#1",
+  "categoria": "Luz y gas"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2026-01-06",
+  "hora": "15:22",
+  "concepto": "CAFETERIA CENTRAL",
+  "importe": -4.62,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2026-01-06|15:22|-4.62|#1",
+  "categoria": "Restaurantes y caprichos"
+ },
+ {
+  "cuenta": "CaixaBank",
+  "fecha": "2026-01-06",
+  "hora": "",
+  "concepto": "RECIBO MOVILCOM",
+  "importe": -14.95,
+  "saldo": 4096.92,
+  "clave": "CaixaBank|2026-01-06||-14.95|4096.92#1",
+  "categoria": "Móvil"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2026-01-05",
+  "hora": "21:07",
+  "concepto": "FRUTERIA LA HUERTA",
+  "importe": -10.25,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2026-01-05|21:07|-10.25|#1",
+  "categoria": "Supermercado"
+ },
+ {
+  "cuenta": "CaixaBank",
+  "fecha": "2026-01-05",
+  "hora": "",
+  "concepto": "RECIBO FIBRANET",
+  "importe": -39.9,
+  "saldo": 4111.87,
+  "clave": "CaixaBank|2026-01-05||-39.90|4111.87#1",
+  "categoria": "Internet y teléfono fijo"
+ },
+ {
+  "cuenta": "Openbank",
+  "fecha": "2026-01-05",
+  "hora": "",
+  "concepto": "LIQUIDACION TARJETA CREDITO",
+  "importe": -440.52,
+  "saldo": 1143.68,
+  "clave": "Openbank|2026-01-05||-440.52|1143.68#1",
+  "categoria": "Pago de la tarjeta"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2026-01-04",
+  "hora": "16:52",
+  "concepto": "RESTAURANTE LA PLAZA",
+  "importe": -40.98,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2026-01-04|16:52|-40.98|#1",
+  "categoria": "Restaurantes y caprichos"
+ },
+ {
+  "cuenta": "CaixaBank",
+  "fecha": "2026-01-03",
+  "hora": "",
+  "concepto": "TRANSFERENCIA CUENTA DE VIAJES",
+  "importe": -150,
+  "saldo": 4151.77,
+  "clave": "CaixaBank|2026-01-03||-150.00|4151.77#1",
+  "categoria": "Aportación a la cuenta de viajes"
+ },
+ {
+  "cuenta": "CaixaBank",
+  "fecha": "2026-01-02",
+  "hora": "",
+  "concepto": "TRASPASO A CUENTA AHORRO ING",
+  "importe": -300,
+  "saldo": 4781.77,
+  "clave": "CaixaBank|2026-01-02||-300.00|4781.77#1",
+  "categoria": "Traspaso entre mis cuentas"
+ },
+ {
+  "cuenta": "CaixaBank",
+  "fecha": "2026-01-02",
+  "hora": "",
+  "concepto": "TRASPASO A OPENBANK",
+  "importe": -480,
+  "saldo": 4301.77,
+  "clave": "CaixaBank|2026-01-02||-480.00|4301.77#1",
+  "categoria": "Traspaso entre mis cuentas"
+ },
+ {
+  "cuenta": "ING",
+  "fecha": "2026-01-02",
+  "hora": "",
+  "concepto": "TRASPASO DESDE CAIXABANK",
+  "importe": 300,
+  "saldo": 53298.69,
+  "clave": "ING|2026-01-02||300.00|53298.69#1",
+  "categoria": "Traspaso entre mis cuentas"
+ },
+ {
+  "cuenta": "Openbank",
+  "fecha": "2026-01-02",
+  "hora": "",
+  "concepto": "TRASPASO DESDE CAIXABANK",
+  "importe": 480,
+  "saldo": 1584.2,
+  "clave": "Openbank|2026-01-02||480.00|1584.20#1",
+  "categoria": "Traspaso entre mis cuentas"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2026-01-01",
+  "hora": "10:15",
+  "concepto": "TIENDA ONLINE",
+  "importe": -28.89,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2026-01-01|10:15|-28.89|#1",
+  "categoria": "Compras online"
+ },
+ {
+  "cuenta": "CaixaBank",
+  "fecha": "2026-01-01",
+  "hora": "",
+  "concepto": "ALQUILER VIVIENDA 01/2026",
+  "importe": -850,
+  "saldo": 5081.77,
+  "clave": "CaixaBank|2026-01-01||-850.00|5081.77#1",
+  "categoria": "Alquiler"
+ },
+ {
+  "cuenta": "ING",
+  "fecha": "2025-12-31",
+  "hora": "",
+  "concepto": "INTERESES CUENTA AHORRO",
+  "importe": 33.1,
+  "saldo": 52998.69,
+  "clave": "ING|2025-12-31||33.10|52998.69#1",
+  "categoria": "Intereses"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2025-12-28",
+  "hora": "19:07",
+  "concepto": "FRUTERIA LA HUERTA",
+  "importe": -14.89,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2025-12-28|19:07|-14.89|#1",
+  "categoria": "Supermercado"
+ },
+ {
+  "cuenta": "CaixaBank",
+  "fecha": "2025-12-28",
+  "hora": "",
+  "concepto": "NOMINA EMPRESA EJEMPLO SL",
+  "importe": 2150,
+  "saldo": 5931.77,
+  "clave": "CaixaBank|2025-12-28||2150.00|5931.77#1",
+  "categoria": "Nómina"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2025-12-27",
+  "hora": "13:52",
+  "concepto": "RESTAURANTE LA PLAZA",
+  "importe": -34.49,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2025-12-27|13:52|-34.49|#1",
+  "categoria": "Restaurantes y caprichos"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2025-12-26",
+  "hora": "17:31",
+  "concepto": "TIENDA ONLINE",
+  "importe": -20.2,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2025-12-26|17:31|-20.20|#1",
+  "categoria": "Compras online"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2025-12-26",
+  "hora": "17:15",
+  "concepto": "CAFETERIA CENTRAL",
+  "importe": -7.59,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2025-12-26|17:15|-7.59|#1",
+  "categoria": "Restaurantes y caprichos"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2025-12-26",
+  "hora": "09:31",
+  "concepto": "SUPERMERCADO EL BARRIO",
+  "importe": -28.34,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2025-12-26|09:31|-28.34|#1",
+  "categoria": "Supermercado"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2025-12-25",
+  "hora": "10:00",
+  "concepto": "SUPERMERCADO EL BARRIO",
+  "importe": -51.04,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2025-12-25|10:00|-51.04|#1",
+  "categoria": "Supermercado"
+ },
+ {
+  "cuenta": "CaixaBank",
+  "fecha": "2025-12-24",
+  "hora": "",
+  "concepto": "BIZUM COMIDA DOMINGO",
+  "importe": -31,
+  "saldo": 3781.77,
+  "clave": "CaixaBank|2025-12-24||-31.00|3781.77#1",
+  "categoria": "Ajustes de gastos compartidos (comida)"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2025-12-22",
+  "hora": "13:00",
+  "concepto": "GASOLINERA RUTA",
+  "importe": -41.07,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2025-12-22|13:00|-41.07|#1",
+  "categoria": "Transporte"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2025-12-20",
+  "hora": "16:15",
+  "concepto": "CAFETERIA CENTRAL",
+  "importe": -8.19,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2025-12-20|16:15|-8.19|#1",
+  "categoria": "Restaurantes y caprichos"
+ },
+ {
+  "cuenta": "CaixaBank",
+  "fecha": "2025-12-20",
+  "hora": "",
+  "concepto": "NOMINA PAGA EXTRA EMPRESA EJEMPLO SL",
+  "importe": 2150,
+  "saldo": 3812.77,
+  "clave": "CaixaBank|2025-12-20||2150.00|3812.77#1",
+  "categoria": "Nómina"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2025-12-18",
+  "hora": "17:07",
+  "concepto": "FRUTERIA LA HUERTA",
+  "importe": -11.12,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2025-12-18|17:07|-11.12|#1",
+  "categoria": "Supermercado"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2025-12-17",
+  "hora": "20:07",
+  "concepto": "CAFETERIA CENTRAL",
+  "importe": -5.18,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2025-12-17|20:07|-5.18|#1",
+  "categoria": "Restaurantes y caprichos"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2025-12-17",
+  "hora": "14:00",
+  "concepto": "CAFETERIA CENTRAL",
+  "importe": -7.74,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2025-12-17|14:00|-7.74|#1",
+  "categoria": "Restaurantes y caprichos"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2025-12-16",
+  "hora": "17:31",
+  "concepto": "FARMACIA SAN JOSE",
+  "importe": -26.87,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2025-12-16|17:31|-26.87|#1",
+  "categoria": "Salud y farmacia"
+ },
+ {
+  "cuenta": "CaixaBank",
+  "fecha": "2025-12-12",
+  "hora": "",
+  "concepto": "RECIBO AGUAS MUNICIPALES",
+  "importe": -32.13,
+  "saldo": 1662.77,
+  "clave": "CaixaBank|2025-12-12||-32.13|1662.77#1",
+  "categoria": "Agua"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2025-12-11",
+  "hora": "17:52",
+  "concepto": "SUPERMERCADO EL BARRIO",
+  "importe": -52.56,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2025-12-11|17:52|-52.56|#1",
+  "categoria": "Supermercado"
+ },
+ {
+  "cuenta": "CaixaBank",
+  "fecha": "2025-12-11",
+  "hora": "",
+  "concepto": "BIZUM CENA",
+  "importe": 30,
+  "saldo": 1694.9,
+  "clave": "CaixaBank|2025-12-11||30.00|1694.90#1",
+  "categoria": "Ajustes de gastos compartidos (comida)"
+ },
+ {
+  "cuenta": "CaixaBank",
+  "fecha": "2025-12-09",
+  "hora": "",
+  "concepto": "RECIBO STREAMFLIX",
+  "importe": -12.99,
+  "saldo": 1664.9,
+  "clave": "CaixaBank|2025-12-09||-12.99|1664.90#1",
+  "categoria": "Suscripciones"
+ },
+ {
+  "cuenta": "CaixaBank",
+  "fecha": "2025-12-08",
+  "hora": "",
+  "concepto": "RECIBO LUZ HOGAR ENERGIA",
+  "importe": -58.18,
+  "saldo": 1677.89,
+  "clave": "CaixaBank|2025-12-08||-58.18|1677.89#1",
+  "categoria": "Luz y gas"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2025-12-07",
+  "hora": "13:22",
+  "concepto": "CINE ESTRENOS",
+  "importe": -12.9,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2025-12-07|13:22|-12.90|#1",
+  "categoria": "Ocio y cultura"
+ },
+ {
+  "cuenta": "CaixaBank",
+  "fecha": "2025-12-06",
+  "hora": "",
+  "concepto": "RECIBO MOVILCOM",
+  "importe": -14.95,
+  "saldo": 1736.07,
+  "clave": "CaixaBank|2025-12-06||-14.95|1736.07#1",
+  "categoria": "Móvil"
+ },
+ {
+  "cuenta": "CaixaBank",
+  "fecha": "2025-12-05",
+  "hora": "",
+  "concepto": "RECIBO FIBRANET",
+  "importe": -39.9,
+  "saldo": 1751.02,
+  "clave": "CaixaBank|2025-12-05||-39.90|1751.02#1",
+  "categoria": "Internet y teléfono fijo"
+ },
+ {
+  "cuenta": "Openbank",
+  "fecha": "2025-12-05",
+  "hora": "",
+  "concepto": "LIQUIDACION TARJETA CREDITO",
+  "importe": -490.06,
+  "saldo": 1104.2,
+  "clave": "Openbank|2025-12-05||-490.06|1104.20#1",
+  "categoria": "Pago de la tarjeta"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2025-12-04",
+  "hora": "09:00",
+  "concepto": "RESTAURANTE LA PLAZA",
+  "importe": -36.02,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2025-12-04|09:00|-36.02|#1",
+  "categoria": "Restaurantes y caprichos"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2025-12-03",
+  "hora": "10:07",
+  "concepto": "CAFETERIA CENTRAL",
+  "importe": -5.22,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2025-12-03|10:07|-5.22|#1",
+  "categoria": "Restaurantes y caprichos"
+ },
+ {
+  "cuenta": "CaixaBank",
+  "fecha": "2025-12-03",
+  "hora": "",
+  "concepto": "TRANSFERENCIA CUENTA DE VIAJES",
+  "importe": -150,
+  "saldo": 1790.92,
+  "clave": "CaixaBank|2025-12-03||-150.00|1790.92#1",
+  "categoria": "Aportación a la cuenta de viajes"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2025-12-02",
+  "hora": "12:45",
+  "concepto": "SUPERMERCADO EL BARRIO",
+  "importe": -57.1,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2025-12-02|12:45|-57.10|#1",
+  "categoria": "Supermercado"
+ },
+ {
+  "cuenta": "CaixaBank",
+  "fecha": "2025-12-02",
+  "hora": "",
+  "concepto": "TRASPASO A CUENTA AHORRO ING",
+  "importe": -300,
+  "saldo": 2420.92,
+  "clave": "CaixaBank|2025-12-02||-300.00|2420.92#1",
+  "categoria": "Traspaso entre mis cuentas"
+ },
+ {
+  "cuenta": "CaixaBank",
+  "fecha": "2025-12-02",
+  "hora": "",
+  "concepto": "TRASPASO A OPENBANK",
+  "importe": -480,
+  "saldo": 1940.92,
+  "clave": "CaixaBank|2025-12-02||-480.00|1940.92#1",
+  "categoria": "Traspaso entre mis cuentas"
+ },
+ {
+  "cuenta": "ING",
+  "fecha": "2025-12-02",
+  "hora": "",
+  "concepto": "TRASPASO DESDE CAIXABANK",
+  "importe": 300,
+  "saldo": 52965.59,
+  "clave": "ING|2025-12-02||300.00|52965.59#1",
+  "categoria": "Traspaso entre mis cuentas"
+ },
+ {
+  "cuenta": "Openbank",
+  "fecha": "2025-12-02",
+  "hora": "",
+  "concepto": "TRASPASO DESDE CAIXABANK",
+  "importe": 480,
+  "saldo": 1594.26,
+  "clave": "Openbank|2025-12-02||480.00|1594.26#1",
+  "categoria": "Traspaso entre mis cuentas"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2025-12-01",
+  "hora": "15:15",
+  "concepto": "TRANSPORTE PUBLICO RECARGA",
+  "importe": -20.0,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2025-12-01|15:15|-20.00|#1",
+  "categoria": "Transporte"
+ },
+ {
+  "cuenta": "CaixaBank",
+  "fecha": "2025-12-01",
+  "hora": "",
+  "concepto": "ALQUILER VIVIENDA 12/2025",
+  "importe": -850,
+  "saldo": 2720.92,
+  "clave": "CaixaBank|2025-12-01||-850.00|2720.92#1",
+  "categoria": "Alquiler"
+ },
+ {
+  "cuenta": "ING",
+  "fecha": "2025-11-30",
+  "hora": "",
+  "concepto": "INTERESES CUENTA AHORRO",
+  "importe": 32.9,
+  "saldo": 52665.59,
+  "clave": "ING|2025-11-30||32.90|52665.59#1",
+  "categoria": "Intereses"
+ },
+ {
+  "cuenta": "CaixaBank",
+  "fecha": "2025-11-28",
+  "hora": "",
+  "concepto": "NOMINA EMPRESA EJEMPLO SL",
+  "importe": 2150,
+  "saldo": 3570.92,
+  "clave": "CaixaBank|2025-11-28||2150.00|3570.92#1",
+  "categoria": "Nómina"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2025-11-27",
+  "hora": "09:45",
+  "concepto": "FARMACIA SAN JOSE",
+  "importe": -22.02,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2025-11-27|09:45|-22.02|#1",
+  "categoria": "Salud y farmacia"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2025-11-26",
+  "hora": "19:22",
+  "concepto": "FRUTERIA LA HUERTA",
+  "importe": -17.06,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2025-11-26|19:22|-17.06|#1",
+  "categoria": "Supermercado"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2025-11-26",
+  "hora": "15:15",
+  "concepto": "CAFETERIA CENTRAL",
+  "importe": -5.9,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2025-11-26|15:15|-5.90|#1",
+  "categoria": "Restaurantes y caprichos"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2025-11-26",
+  "hora": "14:07",
+  "concepto": "FRUTERIA LA HUERTA",
+  "importe": -20.38,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2025-11-26|14:07|-20.38|#1",
+  "categoria": "Supermercado"
+ },
+ {
+  "cuenta": "CaixaBank",
+  "fecha": "2025-11-24",
+  "hora": "",
+  "concepto": "BIZUM COMIDA DOMINGO",
+  "importe": 27,
+  "saldo": 1420.92,
+  "clave": "CaixaBank|2025-11-24||27.00|1420.92#1",
+  "categoria": "Ajustes de gastos compartidos (comida)"
+ },
+ {
+  "cuenta": "CaixaBank",
+  "fecha": "2025-11-22",
+  "hora": "",
+  "concepto": "PELUQUERIA ESTILO",
+  "importe": -22,
+  "saldo": 1393.92,
+  "clave": "CaixaBank|2025-11-22||-22.00|1393.92#1",
+  "categoria": "Cuidado personal"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2025-11-18",
+  "hora": "12:31",
+  "concepto": "SUPERMERCADO EL BARRIO",
+  "importe": -38.91,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2025-11-18|12:31|-38.91|#1",
+  "categoria": "Supermercado"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2025-11-17",
+  "hora": "15:52",
+  "concepto": "CAFETERIA CENTRAL",
+  "importe": -7.48,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2025-11-17|15:52|-7.48|#1",
+  "categoria": "Restaurantes y caprichos"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2025-11-16",
+  "hora": "16:15",
+  "concepto": "SUPERMERCADO EL BARRIO",
+  "importe": -55.16,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2025-11-16|16:15|-55.16|#1",
+  "categoria": "Supermercado"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2025-11-15",
+  "hora": "20:31",
+  "concepto": "TRANSPORTE PUBLICO RECARGA",
+  "importe": -20.0,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2025-11-15|20:31|-20.00|#1",
+  "categoria": "Transporte"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2025-11-14",
+  "hora": "08:52",
+  "concepto": "RESTAURANTE LA PLAZA",
+  "importe": -42.08,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2025-11-14|08:52|-42.08|#1",
+  "categoria": "Restaurantes y caprichos"
+ },
+ {
+  "cuenta": "CaixaBank",
+  "fecha": "2025-11-14",
+  "hora": "",
+  "concepto": "MODA CENTRO",
+  "importe": -98.18,
+  "saldo": 1415.92,
+  "clave": "CaixaBank|2025-11-14||-98.18|1415.92#1",
+  "categoria": "Ropa y calzado"
+ },
+ {
+  "cuenta": "CaixaBank",
+  "fecha": "2025-11-11",
+  "hora": "",
+  "concepto": "BIZUM COMIDA DOMINGO",
+  "importe": -34,
+  "saldo": 1514.1,
+  "clave": "CaixaBank|2025-11-11||-34.00|1514.10#1",
+  "categoria": "Ajustes de gastos compartidos (comida)"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2025-11-10",
+  "hora": "20:00",
+  "concepto": "RESTAURANTE LA PLAZA",
+  "importe": -33.4,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2025-11-10|20:00|-33.40|#1",
+  "categoria": "Restaurantes y caprichos"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2025-11-10",
+  "hora": "08:00",
+  "concepto": "CAFETERIA CENTRAL",
+  "importe": -7.91,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2025-11-10|08:00|-7.91|#1",
+  "categoria": "Restaurantes y caprichos"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2025-11-09",
+  "hora": "13:00",
+  "concepto": "TIENDA ONLINE",
+  "importe": -55.36,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2025-11-09|13:00|-55.36|#1",
+  "categoria": "Compras online"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2025-11-09",
+  "hora": "10:22",
+  "concepto": "GASOLINERA RUTA",
+  "importe": -44.06,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2025-11-09|10:22|-44.06|#1",
+  "categoria": "Transporte"
+ },
+ {
+  "cuenta": "CaixaBank",
+  "fecha": "2025-11-09",
+  "hora": "",
+  "concepto": "RECIBO STREAMFLIX",
+  "importe": -12.99,
+  "saldo": 1548.1,
+  "clave": "CaixaBank|2025-11-09||-12.99|1548.10#1",
+  "categoria": "Suscripciones"
+ },
+ {
+  "cuenta": "CaixaBank",
+  "fecha": "2025-11-08",
+  "hora": "",
+  "concepto": "RECIBO LUZ HOGAR ENERGIA",
+  "importe": -50.32,
+  "saldo": 1561.09,
+  "clave": "CaixaBank|2025-11-08||-50.32|1561.09#1",
+  "categoria": "Luz y gas"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2025-11-07",
+  "hora": "15:22",
+  "concepto": "CAFETERIA CENTRAL",
+  "importe": -4.19,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2025-11-07|15:22|-4.19|#1",
+  "categoria": "Restaurantes y caprichos"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2025-11-07",
+  "hora": "14:07",
+  "concepto": "CINE ESTRENOS",
+  "importe": -15.73,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2025-11-07|14:07|-15.73|#1",
+  "categoria": "Ocio y cultura"
+ },
+ {
+  "cuenta": "CaixaBank",
+  "fecha": "2025-11-06",
+  "hora": "",
+  "concepto": "RECIBO MOVILCOM",
+  "importe": -14.95,
+  "saldo": 1611.41,
+  "clave": "CaixaBank|2025-11-06||-14.95|1611.41#1",
+  "categoria": "Móvil"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2025-11-05",
+  "hora": "17:22",
+  "concepto": "CAFETERIA CENTRAL",
+  "importe": -6.76,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2025-11-05|17:22|-6.76|#1",
+  "categoria": "Restaurantes y caprichos"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2025-11-05",
+  "hora": "11:52",
+  "concepto": "SUPERMERCADO EL BARRIO",
+  "importe": -43.07,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2025-11-05|11:52|-43.07|#1",
+  "categoria": "Supermercado"
+ },
+ {
+  "cuenta": "CaixaBank",
+  "fecha": "2025-11-05",
+  "hora": "",
+  "concepto": "RECIBO FIBRANET",
+  "importe": -39.9,
+  "saldo": 1626.36,
+  "clave": "CaixaBank|2025-11-05||-39.90|1626.36#1",
+  "categoria": "Internet y teléfono fijo"
+ },
+ {
+  "cuenta": "Openbank",
+  "fecha": "2025-11-05",
+  "hora": "",
+  "concepto": "LIQUIDACION TARJETA CREDITO",
+  "importe": -445.74,
+  "saldo": 1114.26,
+  "clave": "Openbank|2025-11-05||-445.74|1114.26#1",
+  "categoria": "Pago de la tarjeta"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2025-11-04",
+  "hora": "15:45",
+  "concepto": "SUPERMERCADO EL BARRIO",
+  "importe": -50.59,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2025-11-04|15:45|-50.59|#1",
+  "categoria": "Supermercado"
+ },
+ {
+  "cuenta": "CaixaBank",
+  "fecha": "2025-11-03",
+  "hora": "",
+  "concepto": "TRANSFERENCIA CUENTA DE VIAJES",
+  "importe": -150,
+  "saldo": 1666.26,
+  "clave": "CaixaBank|2025-11-03||-150.00|1666.26#1",
+  "categoria": "Aportación a la cuenta de viajes"
+ },
+ {
+  "cuenta": "CaixaBank",
+  "fecha": "2025-11-02",
+  "hora": "",
+  "concepto": "TRASPASO A CUENTA AHORRO ING",
+  "importe": -300,
+  "saldo": 2296.26,
+  "clave": "CaixaBank|2025-11-02||-300.00|2296.26#1",
+  "categoria": "Traspaso entre mis cuentas"
+ },
+ {
+  "cuenta": "CaixaBank",
+  "fecha": "2025-11-02",
+  "hora": "",
+  "concepto": "TRASPASO A OPENBANK",
+  "importe": -480,
+  "saldo": 1816.26,
+  "clave": "CaixaBank|2025-11-02||-480.00|1816.26#1",
+  "categoria": "Traspaso entre mis cuentas"
+ },
+ {
+  "cuenta": "ING",
+  "fecha": "2025-11-02",
+  "hora": "",
+  "concepto": "TRASPASO DESDE CAIXABANK",
+  "importe": 300,
+  "saldo": 52632.69,
+  "clave": "ING|2025-11-02||300.00|52632.69#1",
+  "categoria": "Traspaso entre mis cuentas"
+ },
+ {
+  "cuenta": "Openbank",
+  "fecha": "2025-11-02",
+  "hora": "",
+  "concepto": "TRASPASO DESDE CAIXABANK",
+  "importe": 480,
+  "saldo": 1560,
+  "clave": "Openbank|2025-11-02||480.00|1560.00#1",
+  "categoria": "Traspaso entre mis cuentas"
+ },
+ {
+  "cuenta": "CaixaBank",
+  "fecha": "2025-11-01",
+  "hora": "",
+  "concepto": "ALQUILER VIVIENDA 11/2025",
+  "importe": -850,
+  "saldo": 2596.26,
+  "clave": "CaixaBank|2025-11-01||-850.00|2596.26#1",
+  "categoria": "Alquiler"
+ },
+ {
+  "cuenta": "ING",
+  "fecha": "2025-10-31",
+  "hora": "",
+  "concepto": "INTERESES CUENTA AHORRO",
+  "importe": 32.69,
+  "saldo": 52332.69,
+  "clave": "ING|2025-10-31||32.69|52332.69#1",
+  "categoria": "Intereses"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2025-10-28",
+  "hora": "15:31",
+  "concepto": "TIENDA ONLINE",
+  "importe": -32.16,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2025-10-28|15:31|-32.16|#1",
+  "categoria": "Compras online"
+ },
+ {
+  "cuenta": "CaixaBank",
+  "fecha": "2025-10-28",
+  "hora": "",
+  "concepto": "NOMINA EMPRESA EJEMPLO SL",
+  "importe": 2150,
+  "saldo": 3446.26,
+  "clave": "CaixaBank|2025-10-28||2150.00|3446.26#1",
+  "categoria": "Nómina"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2025-10-25",
+  "hora": "20:31",
+  "concepto": "SUPERMERCADO EL BARRIO",
+  "importe": -43.53,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2025-10-25|20:31|-43.53|#1",
+  "categoria": "Supermercado"
+ },
+ {
+  "cuenta": "CaixaBank",
+  "fecha": "2025-10-24",
+  "hora": "",
+  "concepto": "BIZUM COMIDA DOMINGO",
+  "importe": 37,
+  "saldo": 1296.26,
+  "clave": "CaixaBank|2025-10-24||37.00|1296.26#1",
+  "categoria": "Ajustes de gastos compartidos (comida)"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2025-10-22",
+  "hora": "14:15",
+  "concepto": "FRUTERIA LA HUERTA",
+  "importe": -12.4,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2025-10-22|14:15|-12.40|#1",
+  "categoria": "Supermercado"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2025-10-21",
+  "hora": "17:15",
+  "concepto": "CAFETERIA CENTRAL",
+  "importe": -7.08,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2025-10-21|17:15|-7.08|#1",
+  "categoria": "Restaurantes y caprichos"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2025-10-19",
+  "hora": "19:52",
+  "concepto": "SUPERMERCADO EL BARRIO",
+  "importe": -46.49,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2025-10-19|19:52|-46.49|#1",
+  "categoria": "Supermercado"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2025-10-18",
+  "hora": "15:07",
+  "concepto": "CAFETERIA CENTRAL",
+  "importe": -4.4,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2025-10-18|15:07|-4.40|#1",
+  "categoria": "Restaurantes y caprichos"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2025-10-18",
+  "hora": "09:22",
+  "concepto": "TRANSPORTE PUBLICO RECARGA",
+  "importe": -20.0,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2025-10-18|09:22|-20.00|#1",
+  "categoria": "Transporte"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2025-10-17",
+  "hora": "21:31",
+  "concepto": "GASOLINERA RUTA",
+  "importe": -51.05,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2025-10-17|21:31|-51.05|#1",
+  "categoria": "Transporte"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2025-10-17",
+  "hora": "17:07",
+  "concepto": "CINE ESTRENOS",
+  "importe": -16.25,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2025-10-17|17:07|-16.25|#1",
+  "categoria": "Ocio y cultura"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2025-10-16",
+  "hora": "16:15",
+  "concepto": "FARMACIA SAN JOSE",
+  "importe": -14.76,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2025-10-16|16:15|-14.76|#1",
+  "categoria": "Salud y farmacia"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2025-10-15",
+  "hora": "17:00",
+  "concepto": "SUPERMERCADO EL BARRIO",
+  "importe": -30.48,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2025-10-15|17:00|-30.48|#1",
+  "categoria": "Supermercado"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2025-10-15",
+  "hora": "14:31",
+  "concepto": "RESTAURANTE LA PLAZA",
+  "importe": -37.2,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2025-10-15|14:31|-37.20|#1",
+  "categoria": "Restaurantes y caprichos"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2025-10-13",
+  "hora": "16:45",
+  "concepto": "CAFETERIA CENTRAL",
+  "importe": -9.0,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2025-10-13|16:45|-9.00|#1",
+  "categoria": "Restaurantes y caprichos"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2025-10-12",
+  "hora": "13:52",
+  "concepto": "CAFETERIA CENTRAL",
+  "importe": -8.87,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2025-10-12|13:52|-8.87|#1",
+  "categoria": "Restaurantes y caprichos"
+ },
+ {
+  "cuenta": "CaixaBank",
+  "fecha": "2025-10-12",
+  "hora": "",
+  "concepto": "RECIBO AGUAS MUNICIPALES",
+  "importe": -36.52,
+  "saldo": 1259.26,
+  "clave": "CaixaBank|2025-10-12||-36.52|1259.26#1",
+  "categoria": "Agua"
+ },
+ {
+  "cuenta": "CaixaBank",
+  "fecha": "2025-10-11",
+  "hora": "",
+  "concepto": "BIZUM COMIDA DOMINGO",
+  "importe": -19,
+  "saldo": 1295.78,
+  "clave": "CaixaBank|2025-10-11||-19.00|1295.78#1",
+  "categoria": "Ajustes de gastos compartidos (comida)"
+ },
+ {
+  "cuenta": "CaixaBank",
+  "fecha": "2025-10-09",
+  "hora": "",
+  "concepto": "RECIBO STREAMFLIX",
+  "importe": -12.99,
+  "saldo": 1314.78,
+  "clave": "CaixaBank|2025-10-09||-12.99|1314.78#1",
+  "categoria": "Suscripciones"
+ },
+ {
+  "cuenta": "CaixaBank",
+  "fecha": "2025-10-08",
+  "hora": "",
+  "concepto": "RECIBO LUZ HOGAR ENERGIA",
+  "importe": -37.38,
+  "saldo": 1327.77,
+  "clave": "CaixaBank|2025-10-08||-37.38|1327.77#1",
+  "categoria": "Luz y gas"
+ },
+ {
+  "cuenta": "CaixaBank",
+  "fecha": "2025-10-06",
+  "hora": "",
+  "concepto": "RECIBO MOVILCOM",
+  "importe": -14.95,
+  "saldo": 1365.15,
+  "clave": "CaixaBank|2025-10-06||-14.95|1365.15#1",
+  "categoria": "Móvil"
+ },
+ {
+  "cuenta": "CaixaBank",
+  "fecha": "2025-10-05",
+  "hora": "",
+  "concepto": "RECIBO FIBRANET",
+  "importe": -39.9,
+  "saldo": 1380.1,
+  "clave": "CaixaBank|2025-10-05||-39.90|1380.10#1",
+  "categoria": "Internet y teléfono fijo"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2025-10-04",
+  "hora": "09:22",
+  "concepto": "SUPERMERCADO EL BARRIO",
+  "importe": -32.94,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2025-10-04|09:22|-32.94|#1",
+  "categoria": "Supermercado"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2025-10-03",
+  "hora": "09:31",
+  "concepto": "CAFETERIA CENTRAL",
+  "importe": -7.2,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2025-10-03|09:31|-7.20|#1",
+  "categoria": "Restaurantes y caprichos"
+ },
+ {
+  "cuenta": "CaixaBank",
+  "fecha": "2025-10-03",
+  "hora": "",
+  "concepto": "TRANSFERENCIA CUENTA DE VIAJES",
+  "importe": -150,
+  "saldo": 1420,
+  "clave": "CaixaBank|2025-10-03||-150.00|1420.00#1",
+  "categoria": "Aportación a la cuenta de viajes"
+ },
+ {
+  "cuenta": "CaixaBank",
+  "fecha": "2025-10-02",
+  "hora": "",
+  "concepto": "TRASPASO A CUENTA AHORRO ING",
+  "importe": -300,
+  "saldo": 2050,
+  "clave": "CaixaBank|2025-10-02||-300.00|2050.00#1",
+  "categoria": "Traspaso entre mis cuentas"
+ },
+ {
+  "cuenta": "CaixaBank",
+  "fecha": "2025-10-02",
+  "hora": "",
+  "concepto": "TRASPASO A OPENBANK",
+  "importe": -480,
+  "saldo": 1570,
+  "clave": "CaixaBank|2025-10-02||-480.00|1570.00#1",
+  "categoria": "Traspaso entre mis cuentas"
+ },
+ {
+  "cuenta": "ING",
+  "fecha": "2025-10-02",
+  "hora": "",
+  "concepto": "TRASPASO DESDE CAIXABANK",
+  "importe": 300,
+  "saldo": 52300,
+  "clave": "ING|2025-10-02||300.00|52300.00#1",
+  "categoria": "Traspaso entre mis cuentas"
+ },
+ {
+  "cuenta": "Openbank",
+  "fecha": "2025-10-02",
+  "hora": "",
+  "concepto": "TRASPASO DESDE CAIXABANK",
+  "importe": 480,
+  "saldo": 1080,
+  "clave": "Openbank|2025-10-02||480.00|1080.00#1",
+  "categoria": "Traspaso entre mis cuentas"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2025-10-01",
+  "hora": "18:22",
+  "concepto": "FRUTERIA LA HUERTA",
+  "importe": -19.41,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2025-10-01|18:22|-19.41|#1",
+  "categoria": "Supermercado"
+ },
+ {
+  "cuenta": "Openbank tarjeta",
+  "fecha": "2025-10-01",
+  "hora": "13:15",
+  "concepto": "RESTAURANTE LA PLAZA",
+  "importe": -52.52,
+  "saldo": "",
+  "clave": "Openbank tarjeta|2025-10-01|13:15|-52.52|#1",
+  "categoria": "Restaurantes y caprichos"
+ },
+ {
+  "cuenta": "CaixaBank",
+  "fecha": "2025-10-01",
+  "hora": "",
+  "concepto": "ALQUILER VIVIENDA 10/2025",
+  "importe": -850,
+  "saldo": 2350,
+  "clave": "CaixaBank|2025-10-01||-850.00|2350.00#1",
+  "categoria": "Alquiler"
+ }
+]

@@ -1,0 +1,74 @@
+[
+ {
+  "hito": "🛟 Colchón de emergencia",
+  "meta": 9903.295,
+  "hoy": 67957.06,
+  "pct": 1,
+  "anio": "Hoy",
+  "estado": "✅ Conseguido",
+  "formato": "eur"
+ },
+ {
+  "hito": "💶 100.000 € de patrimonio líquido",
+  "meta": 100000,
+  "hoy": 67957.06,
+  "pct": 0.6795706,
+  "anio": 2029,
+  "estado": "🔄 En camino",
+  "formato": "eur"
+ },
+ {
+  "hito": "💰 150.000 € de patrimonio líquido",
+  "meta": 150000,
+  "hoy": 67957.06,
+  "pct": 0.453047066666667,
+  "anio": 2033,
+  "estado": "🔄 En camino",
+  "formato": "eur"
+ },
+ {
+  "hito": "🏠 Vivienda comprada",
+  "meta": 1,
+  "hoy": 0,
+  "pct": 0,
+  "anio": 2026,
+  "estado": "📅 En DECISIONES",
+  "formato": "pct"
+ },
+ {
+  "hito": "🔓 Libertad financiera 25 %",
+  "meta": 0.25,
+  "hoy": 0.137241312108748,
+  "pct": 0.548965248434991,
+  "anio": 2032,
+  "estado": "🔄 En camino",
+  "formato": "pct"
+ },
+ {
+  "hito": "💎 200.000 € de patrimonio líquido",
+  "meta": 200000,
+  "hoy": 67957.06,
+  "pct": 0.3397853,
+  "anio": 2036,
+  "estado": "🔄 En camino",
+  "formato": "eur"
+ },
+ {
+  "hito": "🔓 Libertad financiera 50 %",
+  "meta": 0.5,
+  "hoy": 0.137241312108748,
+  "pct": 0.274482624217495,
+  "anio": 2049,
+  "estado": "🔄 En camino",
+  "formato": "pct"
+ },
+ {
+  "hito": "🏖️ Que el dinero te dure hasta los 90",
+  "meta": 90,
+  "hoy": 108,
+  "pct": 1,
+  "anio": "",
+  "estado": "✅ Cubierto",
+  "formato": "num"
+ }
+]

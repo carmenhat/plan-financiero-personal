@@ -1,0 +1,245 @@
+[
+ {
+  "edad": 41,
+  "liquido": 67957.06,
+  "liquido_con": 12957.06,
+  "con_inmuebles": 67957.06,
+  "con_inmuebles_con": 51857.06,
+  "libertad": 0.137241312108748,
+  "libertad_con": 0.0261671696137498
+ },
+ {
+  "edad": 42,
+  "liquido": 80085.38,
+  "liquido_con": 22597.4963746179,
+  "con_inmuebles": 80085.38,
+  "con_inmuebles_con": 73104.6858349719,
+  "libertad": 0.157790064920373,
+  "libertad_con": 0.0917967267321975
+ },
+ {
+  "edad": 43,
+  "liquido": 92520.6053604083,
+  "liquido_con": 32681.818928375,
+  "con_inmuebles": 92520.6053604083,
+  "con_inmuebles_con": 95141.3520389348,
+  "libertad": 0.177844735770274,
+  "libertad_con": 0.129523694671228
+ },
+ {
+  "edad": 44,
+  "liquido": 105269.2585726,
+  "liquido_con": 43229.9335685833,
+  "con_inmuebles": 105269.2585726,
+  "con_inmuebles_con": 117997.229171935,
+  "libertad": 0.197415045191475,
+  "libertad_con": 0.167148971053772
+ },
+ {
+  "edad": 45,
+  "liquido": 118337.994874229,
+  "liquido_con": 54262.711479004,
+  "con_inmuebles": 118337.994874229,
+  "con_inmuebles_con": 141703.758365873,
+  "libertad": 0.216510530607475,
+  "libertad_con": 0.204690065686104
+ },
+ {
+  "edad": 46,
+  "liquido": 131733.604917869,
+  "liquido_con": 65802.0374989856,
+  "con_inmuebles": 131733.604917869,
+  "con_inmuebles_con": 166293.708784793,
+  "libertad": 0.235140549744135,
+  "libertad_con": 0.242164651460802
+ },
+ {
+  "edad": 47,
+  "liquido": 145463.01749312,
+  "liquido_con": 77870.8609436816,
+  "con_inmuebles": 145463.01749312,
+  "con_inmuebles_con": 191801.237796408,
+  "libertad": 0.253314283978162,
+  "libertad_con": 0.279590569979078
+ },
+ {
+  "edad": 48,
+  "liquido": 159533.302303227,
+  "liquido_con": 90493.24898835,
+  "con_inmuebles": 159533.302303227,
+  "con_inmuebles_con": 218261.95398589,
+  "libertad": 0.271040741623386,
+  "libertad_con": 0.316985837362255
+ },
+ {
+  "edad": 49,
+  "liquido": 173951.672797323,
+  "liquido_con": 103694.442745921,
+  "con_inmuebles": 173951.672797323,
+  "con_inmuebles_con": 245712.983149396,
+  "libertad": 0.288328761155966,
+  "libertad_con": 0.354368650254
+ },
+ {
+  "edad": 50,
+  "liquido": 188725.489059398,
+  "liquido_con": 117500.91617351,
+  "con_inmuebles": 188725.489059398,
+  "con_inmuebles_con": 274193.037411524,
+  "libertad": 0.30518701437968,
+  "libertad_con": 0.391757392015091
+ },
+ {
+  "edad": 51,
+  "liquido": 203862.260755129,
+  "liquido_con": 131940.437950368,
+  "con_inmuebles": 203862.260755129,
+  "con_inmuebles_con": 303742.487617976,
+  "libertad": 0.321624009532384,
+  "libertad_con": 0.429170639112609
+ },
+ {
+  "edad": 52,
+  "liquido": 219369.650137735,
+  "liquido_con": 147042.136476926,
+  "con_inmuebles": 219369.650137735,
+  "con_inmuebles_con": 334403.439162112,
+  "libertad": 0.337648094334762,
+  "libertad_con": 0.466627167705629
+ },
+ {
+  "edad": 53,
+  "liquido": 235255.475114027,
+  "liquido_con": 162836.568152109,
+  "con_inmuebles": 235255.475114027,
+  "con_inmuebles_con": 366219.81141188,
+  "libertad": 0.35326745898242,
+  "libertad_con": 0.504145960429589
+ },
+ {
+  "edad": 54,
+  "liquido": 251527.712371878,
+  "liquido_con": 179355.789093976,
+  "con_inmuebles": 251527.712371878,
+  "con_inmuebles_con": 399237.420911772,
+  "libertad": 0.368490139082373,
+  "libertad_con": 0.541746213381708
+ },
+ {
+  "edad": 55,
+  "liquido": 268194.500570308,
+  "liquido_con": 196633.430477062,
+  "con_inmuebles": 268194.500570308,
+  "con_inmuebles_con": 433504.068543031,
+  "libertad": 0.383324018534977,
+  "libertad_con": 0.579447343309924
+ },
+ {
+  "edad": 56,
+  "liquido": 285264.14359348,
+  "liquido_con": 214704.77766847,
+  "con_inmuebles": 285264.14359348,
+  "con_inmuebles_con": 469069.630834339,
+  "libertad": 0.397776832362297,
+  "libertad_con": 0.617268995008015
+ },
+ {
+  "edad": 57,
+  "liquido": 302745.113869845,
+  "liquido_con": 233606.853353941,
+  "con_inmuebles": 302745.113869845,
+  "con_inmuebles_con": 505986.155624665,
+  "libertad": 0.411856169483921,
+  "libertad_con": 0.655231048919674
+ },
+ {
+  "edad": 58,
+  "liquido": 320646.055757767,
+  "liquido_con": 253378.504854691,
+  "con_inmuebles": 320646.055757767,
+  "con_inmuebles_con": 544307.962289846,
+  "libertad": 0.425569475441186,
+  "libertad_con": 0.693353628954505
+ },
+ {
+  "edad": 59,
+  "liquido": 338975.788998942,
+  "liquido_con": 274060.495845936,
+  "con_inmuebles": 338975.788998942,
+  "con_inmuebles_con": 584091.746754912,
+  "libertad": 0.438924055070781,
+  "libertad_con": 0.731657110519013
+ },
+ {
+  "edad": 60,
+  "liquido": 357743.312240983,
+  "liquido_con": 295695.602698566,
+  "con_inmuebles": 357743.312240983,
+  "con_inmuebles_con": 625396.691525048,
+  "libertad": 0.45192707512866,
+  "libertad_con": 0.77016212876584
+ },
+ {
+  "edad": 61,
+  "liquido": 376957.806630537,
+  "liquido_con": 318328.715676579,
+  "con_inmuebles": 376957.806630537,
+  "con_inmuebles_con": 668284.580979566,
+  "libertad": 0.464585566865199,
+  "libertad_con": 0.808889587064658
+ },
+ {
+  "edad": 62,
+  "liquido": 396628.639478358,
+  "liquido_con": 342006.945234557,
+  "con_inmuebles": 396628.639478358,
+  "con_inmuebles_con": 712819.922185297,
+  "libertad": 0.476906428552483,
+  "libertad_con": 0.847860665698256
+ },
+ {
+  "edad": 63,
+  "liquido": 416765.367997772,
+  "liquido_con": 366779.733671716,
+  "con_inmuebles": 416765.367997772,
+  "con_inmuebles_con": 759070.071498393,
+  "libertad": 0.488896427964636,
+  "libertad_con": 0.887096830787552
+ },
+ {
+  "edad": 64,
+  "liquido": 437377.743117999,
+  "liquido_con": 392698.972411958,
+  "con_inmuebles": 437377.743117999,
+  "con_inmuebles_con": 807105.367236837,
+  "libertad": 0.500562204812044,
+  "libertad_con": 0.926619843449389
+ },
+ {
+  "edad": 65,
+  "liquido": 458475.713373837,
+  "liquido_con": 419819.125192855,
+  "con_inmuebles": 458475.713373837,
+  "con_inmuebles_con": 856999.2687198,
+  "libertad": 0.511910273130338,
+  "libertad_con": 0.966451769191155
+ },
+ {
+  "edad": 66,
+  "liquido": 480069.428873229,
+  "liquido_con": 448197.357460701,
+  "con_inmuebles": 480069.428873229,
+  "con_inmuebles_con": 908828.501984628,
+  "libertad": 0.522947023624986,
+  "libertad_con": 1.00661498754641
+ },
+ {
+  "edad": 67,
+  "liquido": 502169.24534427,
+  "liquido_con": 488086.555909073,
+  "con_inmuebles": 502169.24534427,
+  "con_inmuebles_con": 962536.634768719,
+  "libertad": 0.533678725972287,
+  "libertad_con": 1.06946624254682
+ }
+]

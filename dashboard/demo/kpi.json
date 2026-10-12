@@ -1,0 +1,146 @@
+[
+ {
+  "clave": "fecha_datos",
+  "valor": "2026-09-01"
+ },
+ {
+  "clave": "patrimonio_liquido",
+  "valor": 67957.06
+ },
+ {
+  "clave": "inmuebles",
+  "valor": 0
+ },
+ {
+  "clave": "patrimonio_total",
+  "valor": 67957.06
+ },
+ {
+  "clave": "cuenta_1",
+  "valor": 10501.16
+ },
+ {
+  "clave": "cuenta_2",
+  "valor": 1449.9
+ },
+ {
+  "clave": "cuenta_3",
+  "valor": 56006
+ },
+ {
+  "clave": "nombre_cuenta_1",
+  "valor": "CaixaBank"
+ },
+ {
+  "clave": "nombre_cuenta_2",
+  "valor": "Openbank"
+ },
+ {
+  "clave": "nombre_cuenta_3",
+  "valor": "ING"
+ },
+ {
+  "clave": "libertad",
+  "valor": 0.137241312108748
+ },
+ {
+  "clave": "nivel",
+  "valor": "🛡️ Escudo"
+ },
+ {
+  "clave": "siguiente_nivel",
+  "valor": "Siguiente: 🧭 Brújula al 15%"
+ },
+ {
+  "clave": "ingresos_medio",
+  "valor": 2627.40916666667
+ },
+ {
+  "clave": "gastos_medio",
+  "valor": 1650.54916666667
+ },
+ {
+  "clave": "ahorro_medio",
+  "valor": 976.86
+ },
+ {
+  "clave": "casa_media",
+  "valor": 969.39
+ },
+ {
+  "clave": "por_revisar",
+  "valor": 2
+ },
+ {
+  "clave": "edad",
+  "valor": 41
+ },
+ {
+  "clave": "edad_jubilacion",
+  "valor": 67
+ },
+ {
+  "clave": "pension_mes",
+  "valor": 1250
+ },
+ {
+  "clave": "rentabilidad_efectivo",
+  "valor": 0.00597436086846606
+ },
+ {
+  "clave": "patrimonio_jub",
+  "valor": 502169.24534427
+ },
+ {
+  "clave": "patrimonio_jub_hoy",
+  "valor": 264258.892926386
+ },
+ {
+  "clave": "ingreso_mes_jub",
+  "valor": 2339.19630975462
+ },
+ {
+  "clave": "dura_sin",
+  "valor": 108
+ },
+ {
+  "clave": "dura_con",
+  "valor": 108
+ },
+ {
+  "clave": "dura_max",
+  "valor": 107
+ },
+ {
+  "clave": "patrimonio_jub_con",
+  "valor": 488086.555909073
+ },
+ {
+  "clave": "libertad_jub",
+  "valor": 0.533678725972287
+ },
+ {
+  "clave": "libertad_jub_con",
+  "valor": 1.06946624254682
+ },
+ {
+  "clave": "viajes_aportacion",
+  "valor": 150
+ },
+ {
+  "clave": "viajes_anio",
+  "valor": 2026
+ },
+ {
+  "clave": "viajes_saldo_fin_anio",
+  "valor": 1900
+ },
+ {
+  "clave": "viajes_aviso",
+  "valor": "✅ Llega para todos los viajes apuntados"
+ },
+ {
+  "clave": "decisiones_texto",
+  "valor": "Decisiones: 0 € del efectivo a inversión, +0 €/mes a inversión, −0 €/mes de gastos, compra de la vivienda (Comprar ya). Comprar pasa dinero líquido a ladrillo: mira las dos filas."
+ }
+]
