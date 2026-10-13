@@ -2,7 +2,7 @@
 
 Un plan financiero personal en Google Sheets que se alimenta de los extractos de tus bancos: cuánto tienes, cuánto ahorras de verdad, en qué se va, si llegas a los viajes que tienes pensados y qué patrimonio tendrás al jubilarte. Con un dashboard que lo lee.
 
-> **Todo lo que hay aquí es ficticio.** Los movimientos, los saldos, los viajes y la vivienda son inventados para que se pueda probar sin datos de nadie. Es la versión pública del plan que uso con mis cuentas; el mío vive en otro sitio.
+> **Todo lo que hay aquí es ficticio.** Los movimientos, los saldos, los viajes y la vivienda son inventados para que se pueda probar sin datos de nadie.
 >
 > **No es asesoramiento financiero ni fiscal.** Las rentabilidades, la pensión y los impuestos son supuestos que tienes que cambiar por los tuyos.
 
@@ -70,7 +70,7 @@ El recálculo y la subida a Google están en [`docs/GUIA_DESPLIEGUE.md`](docs/GU
 
 | Qué | Severidad |
 |---|---|
-| Un movimiento de tarjeta que cambie de importe al liquidarse entraría dos veces: la clave lleva el importe. No ha pasado con los bancos probados | Baja. Si la tarjeta no cuadra, es lo primero que mirar |
+| Un movimiento de tarjeta que cambie de importe al liquidarse entraría dos veces: la clave lleva el importe. | Baja. Si la tarjeta no cuadra, es lo primero que mirar |
 | La estructura de los extractos de ejemplo es aproximada. Las cabeceras son las que busca el importador; las filas de título y las columnas que no usa pueden no ser idénticas a las de cada banco | Baja. El importador busca las cabeceras en las 40 primeras filas |
 | Las fórmulas de «mes completo» dependen de la fecha de hoy. Con los datos de ejemplo, que acaban en septiembre de 2026, todos los meses cuentan como completos a partir de octubre de 2026 | Ninguna con datos reales |
 
@@ -101,6 +101,6 @@ El recálculo y la subida a Google están en [`docs/GUIA_DESPLIEGUE.md`](docs/GU
 | Qué | Por qué está pendiente |
 |---|---|
 | Licencia | Sin decidir. Mientras no haya, el código se puede leer pero no reutilizar legalmente |
-| Más formatos de banco | Solo están los que he podido probar con extractos reales. Para añadir el tuyo, ver [`docs/GUIA_DESPLIEGUE.md`](docs/GUIA_DESPLIEGUE.md) |
+| Más formatos de banco | Solo están los formatos que tienen extracto de ejemplo. Para añadir el tuyo, ver [`docs/GUIA_DESPLIEGUE.md`](docs/GUIA_DESPLIEGUE.md) |
 
 Última actualización: 12/10/2026

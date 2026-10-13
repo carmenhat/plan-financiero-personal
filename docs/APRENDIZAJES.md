@@ -32,7 +32,7 @@ Lo que ya falló, lo que se descartó y por qué. Leer primero si algo no cuadra
 ## Lo que costó entender
 
 - **Los `.xls` de los bancos casi nunca son lo que dicen.** Los de Openbank son una tabla HTML con extensión `.xls`; los de CaixaBank e ING, `.xls` binarios de verdad. El importador mira los primeros bytes, no la extensión.
-- **Un movimiento de tarjeta pendiente puede cambiar de importe al liquidarse.** Si pasa, entra dos veces, porque la clave lleva el importe. No ha pasado con los bancos probados.
+- **Un movimiento de tarjeta pendiente puede cambiar de importe al liquidarse.** Si pasa, entra dos veces, porque la clave lleva el importe.
 - **La media de gastos no ve lo que no pasa por tus cuentas:** lo que paga otra persona, el efectivo, la retribución flexible si no la apuntas. Por eso PARÁMETROS deja escribir encima.
 
 Última actualización: 12/10/2026
